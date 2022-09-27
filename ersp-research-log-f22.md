@@ -1,13 +1,13 @@
 # Week 1 (9/27-10/3)
 
 **Grad Mentor/Reseatch Group Meeting**
-Date/Time/Location: 
-Attended: 
-Presenter(s): 
-Learned: 
-Interactions with Prof: 
-Tasks: 
-Questions: 
+- Date/Time/Location: 
+- Attended: 
+- Presenter(s): 
+- Learned: 
+- Interactions with Prof: 
+- Tasks: 
+- Questions: 
 
 ## Goals:
 - [ ] Attend research group meeting and record attendance
