@@ -1,9 +1,9 @@
 # Week 1 (9/27-10/3)
 **Goals:**
-[] Attend research group meeting and record attendance
-[X] Set up research log
-[] Complete Reflection 1: Identity and ERSP preliminary thoughts
-[] Reflect on research logs
+- [] Attend research group meeting and record attendance
+- [X] Set up research log
+- [] Complete Reflection 1: Identity and ERSP preliminary thoughts
+- [] Reflect on research logs
 
 **Accomplishments:**
 
