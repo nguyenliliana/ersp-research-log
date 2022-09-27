@@ -63,7 +63,7 @@
 - [ ] Reflect on research logs
 
 **Accomplishments:**
-1. Signed ERSP Contract
+* Signed ERSP Contract
 
 **Monday (1.5 hours) Log Set Up & Reflection 1**
 1. To set up my research log, I chose to do it in a github repo since it can be best organized with my other CS projects.  I also think it would be a good chance for me to become familiar with using Markdown.  
