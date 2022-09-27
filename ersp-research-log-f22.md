@@ -1,4 +1,5 @@
 # Week 2 (10/2-10/8)
+## Meeting Summaries
 **Grad Mentor/Reseatch Group Meeting**
 - Date/Time/Location: 
 - Attended: 
@@ -31,7 +32,7 @@
 **Accomplishments:**
 
 # Week 1 (9/25-10/1)
-
+## Meeting Summaries
 **Grad Mentor/Reseatch Group Meeting**
 - Date/Time/Location: 
 - Attended: 
