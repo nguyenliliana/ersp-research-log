@@ -23,9 +23,9 @@
 - Questions:  
 
 ## Weekly Goals:
-[ ] Initial group meeting
-[ ] Research paper prep
-[ ] Read and respond to a research paper
+- [ ] Initial group meeting
+- [ ] Research paper prep
+- [ ] Read and respond to a research paper
 
 
 **Accomplishments:**
