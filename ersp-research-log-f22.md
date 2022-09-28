@@ -64,6 +64,7 @@
 
 **Accomplishments:**
 * Signed ERSP contract
+* Attended Chang's Tuesday Lecture for CS 165B
 
 **Monday (1.5 hours) Log Set Up & Reflection 1**
 1. To set up my research log, I chose to do it in a github repo since it can be best organized with my other CS projects.  I also think it would be a good chance for me to become familiar with using Markdown.  
