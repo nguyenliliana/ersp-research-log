@@ -60,7 +60,7 @@
 - [ ] Attend research group meeting and record attendance
 - [X] Set up research log
 - [X] Complete Reflection 1: Identity and ERSP preliminary thoughts
-- [ ] Reflect on research logs
+- [X] Reflect on research logs
 
 **Accomplished:**
 * Signed ERSP contract
