@@ -1,6 +1,6 @@
 # Week 2 (10/2-10/8)
-**Meeting Summaries**
-> Grad Mentor/Research Group Meeting
+## Meeting Summaries
+**Grad Mentor/Research Group Meeting**
 - Date/Time/Location: 
 - Attended: 
 - Presenter(s): 
@@ -9,7 +9,7 @@
 - Tasks: 
 - Questions: 
 
-> Grad Mentor/Reseatch Group Meeting
+**Grad Mentor/Reseatch Group Meeting**
 - Date/Time/Location: 
 - Attended: 
 - Understandings: 
@@ -17,7 +17,7 @@
 - Questions: 
 
 
-> Meeting with Chinmay
+**Meeting with Chinmay**
 - (starts in 2nd half of the Fall quarter)
 - New Insights: 
 - Challenges Resolved: 
@@ -32,7 +32,7 @@
 **Accomplishments:**
 
 # Week 1 (9/25-10/1)
-**Meeting Summaries**
+## Meeting Summaries
 > Grad Mentor/Research Group Meeting
 - Date/Time/Location: 
 - Attended: 
@@ -42,7 +42,7 @@
 - Tasks: 
 - Questions: 
 
-> Grad Mentor/Reseatch Group Meeting
+**Grad Mentor/Reseatch Group Meeting**
 - Date/Time/Location: 
 - Attended: 
 - Understandings: 
@@ -50,7 +50,7 @@
 - Questions: 
 
 
-> Meeting with Chinmay
+**Meeting with Chinmay**
 - (starts in 2nd half of the Fall quarter)
 - New Insights: 
 - Challenges Resolved: 
@@ -62,11 +62,11 @@
 - [ ] Complete Reflection 1: Identity and ERSP preliminary thoughts
 - [ ] Reflect on research logs
 
-> Accomplishments:
+**Accomplishments:**
 * Signed ERSP contract
 * Attended Chang's Tuesday Lecture for CS 165B
 
-> Monday (1.5 hours) Log Set Up & Reflection 1**
+**Monday (1.5 hours) Log Set Up & Reflection 1**
 1. To set up my research log, I chose to do it in a github repo since it can be best organized with my other CS projects.  I also think it would be a good chance for me to become familiar with using Markdown.  
 
 2. Wrote Log Reflection 
