@@ -32,7 +32,7 @@
 **Accomplishments:**
 
 # Week 1 (9/25-10/1)
-## Meeting Summaries
+**Meeting Summaries**
 > Grad Mentor/Research Group Meeting
 - Date/Time/Location: 
 - Attended: 
