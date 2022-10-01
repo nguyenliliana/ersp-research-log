@@ -1,5 +1,5 @@
 # Week 2 (10/2-10/8)
-## Meeting Summaries
+**Meeting Summaries**
 > Grad Mentor/Research Group Meeting
 - Date/Time/Location: 
 - Attended: 
