@@ -76,7 +76,9 @@
 
 **Initial Thoughts on ERSP**
 > What I am most excited about in ERSP. 
+
 I am excited to apply my skills in a professional research setting.  I haven't had enough professional experience where I was able to utilize my programming skills to its potential, so I'm excited to learn a lot from working in labs with a team and with faculty members.  I look forward to working with AI, ML, and NLP concepts for the first time and cultivating new skills in this area.  
 
 > What I am most nervous about in ERSP. 
+
 I'm nervous about not being able to contribute to the research project as well as my teammates.  I definitely will not lack in effort and determination, but my wish is to be a reliable and active team member that is able to contribute to the project in many different ways.  I will be sure to stay motivated this quarter and prepare myself by learning the related skills and attend CS 165B as recommended.
