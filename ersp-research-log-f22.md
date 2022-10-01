@@ -29,7 +29,7 @@
 - [ ] Read and respond to a research paper
 
 
-**Accomplishments:**
+**Accomplishmed:**
 
 # Week 1 (9/25-10/1)
 ## Meeting Summaries
@@ -62,7 +62,7 @@
 - [X] Complete Reflection 1: Identity and ERSP preliminary thoughts
 - [ ] Reflect on research logs
 
-**Accomplishments:**
+**Accomplished:**
 * Signed ERSP contract
 * Attended Chang's Tuesday Lecture for CS 165B
 * Attended Chang's Thursday Lecture for CS 165B and got added to Gauchospace. 
@@ -74,7 +74,7 @@
 **Tuesday (0.25 hours) CS110/ERSP Contract & Study Consent Form**
 1. I read and signed the ERSP contract and Study Consent form with the PDF editor Kami and submitted it to Gauchospace. 
 
-**Initial Thoughts on ERSP**
+*Initial Thoughts on ERSP*
 > What I am most excited about in ERSP. 
 
 I am excited to apply my skills in a professional research setting.  I haven't had enough professional experience where I was able to utilize my programming skills to its potential, so I'm excited to learn a lot from working in labs with a team and with faculty members.  I look forward to working with AI, ML, and NLP concepts for the first time and cultivating new skills in this area.  
@@ -82,3 +82,7 @@ I am excited to apply my skills in a professional research setting.  I haven't h
 > What I am most nervous about in ERSP. 
 
 I'm nervous about not being able to contribute to the research project as well as my teammates.  I definitely will not lack in effort and determination, but my wish is to be a reliable and active team member that is able to contribute to the project in many different ways.  I will be sure to stay motivated this quarter and prepare myself by learning the related skills and attend CS 165B as recommended.
+
+*Log Reflection*
+
+I was impressed by how organized and detailed the logs were.  Tony and Jacqueline both used Github for their research logs, so their format looked very similar.  Tony used more checkmarks where as Jacqueline used more bullet points.  Miranda used google sites so she is able to make her headers, subheaders, and parts look more distinct and thus easier to read.  I think the logs are useful for researchers to keep track of their progress especially when you set weekly goals and keep track of your accomplishments.  The detailed logs are helpful for the researcher to look back on but also educational for others who read the journal to see and understand what happened throughout the 10 weeks.  It's impressive to see how they accomplish their goals each week, and set higher goals for the next week each time. 
