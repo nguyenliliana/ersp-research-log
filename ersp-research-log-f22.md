@@ -1,27 +1,15 @@
 # Week 2 (10/2-10/8)
 ## Meeting Summaries
 **Grad Mentor/Research Group Meeting**
-- Date/Time/Location: 
-- Attended: 
-- Presenter(s): 
-- Learned: 
-- Interactions with Prof: 
-- Tasks: 
-- Questions: 
+- Date/Time/Location, Attended, Presenter(s), Learned, Interactions with Prof, Tasks, Questions 
 
-**Grad Mentor/Reseatch Group Meeting**
-- Date/Time/Location: 
-- Attended: 
-- Understandings: 
-- Tasks for the Week: 
-- Questions: 
+**Grad Mentor/Research Group Meeting**
+- Date/Time/Location, Attended, Understandings, Tasks for the Week, Questions
 
 
 **Meeting with Chinmay**
 - (starts in 2nd half of the Fall quarter)
-- New Insights: 
-- Challenges Resolved: 
-- Questions:  
+- New Insights, Challenges Resolved, Questions:   
 
 ## Weekly Goals:
 - [ ] Initial group meeting
