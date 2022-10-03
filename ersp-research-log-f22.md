@@ -20,6 +20,7 @@
 **Accomplished:**
 
 **Sunday (0.5 hours) Research Paper Prep**
+
 I read and took notes on _How to Read an Engineering Research Paper_ using a Google Doc. I organized the key parts of the article that I would want to reference later on when I read a research paper such as the essential questions and tips.  I found that the article was helpful in preparing me to read a research paper efficiently. 
 
 # Week 1 (9/25-10/1)
