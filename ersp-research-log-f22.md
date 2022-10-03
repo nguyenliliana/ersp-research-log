@@ -3,7 +3,7 @@
 **Grad Mentor/Research Group Meeting**
 - Date/Time/Location, Attended, Presenter(s), Learned, Interactions with Prof, Tasks, Questions 
 
-**Grad Mentor/Research Group Meeting**
+**Team Meeting**
 - Date/Time/Location, Attended, Understandings, Tasks for the Week, Questions
 
 
@@ -27,7 +27,7 @@
 **Grad Mentor/Research Group Meeting**
 - Date/Time/Location, Attended, Presenter(s), Learned, Interactions with Prof, Tasks, Questions 
 
-**Grad Mentor/Research Group Meeting**
+**Team Meeting**
 - Date/Time/Location, Attended, Understandings, Tasks for the Week, Questions
 
 
