@@ -49,10 +49,10 @@
 * Finalized group meeting date/time: Friday 5pm
 
 **Monday (1.5 hours) Log Set Up & Reflection 1**
-To set up my research log, I chose to do it in a github repo since it can be best organized with my other CS projects.  I also think it would be a good chance for me to become familiar with using Markdown.  
+- To set up my research log, I chose to do it in a github repo since it can be best organized with my other CS projects.  I also think it would be a good chance for me to become familiar with using Markdown.  
 
 **Tuesday (0.25 hours) CS110/ERSP Contract & Study Consent Form**
-I read and signed the ERSP contract and Study Consent form with the PDF editor Kami and submitted it to Gauchospace. 
+- I read and signed the ERSP contract and Study Consent form with the PDF editor Kami and submitted it to Gauchospace. 
 
 *Initial Thoughts on ERSP*
 > What I am most excited about in ERSP. 
