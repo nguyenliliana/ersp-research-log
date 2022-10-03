@@ -15,6 +15,9 @@
 - [ ] Initial group meeting
 - [X] Research paper prep
 - [ ] Read and respond to a research paper
+- [ ] Set up group page and message Chinmay
+- [ ] Contact grad mentor about preferred form of communication
+- [ ] Ask advisor/mentor about 30-min meeting separate from research group meeting
 
 
 **Accomplished:**
