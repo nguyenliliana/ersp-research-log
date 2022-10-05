@@ -59,6 +59,7 @@
 * Attended Chang's Thursday Lecture for CS 165B and got added to Gauchospace. 
 * Asked Chang about his research meetings and will receive information in an email in the future. 
 * Finalized group meeting date/time: Friday 5pm
+* Set up discord server for group
 
 **Monday (1.5 hours) Log Set Up & Reflection 1**
 - To set up my research log, I chose to do it in a github repo since it can be best organized with my other CS projects.  I also think it would be a good chance for me to become familiar with using Markdown.  
