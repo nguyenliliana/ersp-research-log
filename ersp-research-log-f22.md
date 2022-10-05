@@ -1,4 +1,4 @@
-# Liliana's Research Log
+# LILIANA'S RESEARCH LOG
 ## [Reading Logs](https://docs.google.com/document/d/1PoUccoQWEsk7Ggka9py5NHr3Jg__zT7L_zBdZ5leOo0/edit?usp=sharing)
 
 # Week 2 (10/2-10/8)
