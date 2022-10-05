@@ -1,3 +1,5 @@
+## [Reading Logs](https://docs.google.com/document/d/1PoUccoQWEsk7Ggka9py5NHr3Jg__zT7L_zBdZ5leOo0/edit?usp=sharing)
+
 # Week 2 (10/2-10/8)
 ## Meeting Summaries
 **Grad Mentor/Research Group Meeting**
@@ -14,16 +16,23 @@
 ## Weekly Goals:
 - [ ] Initial group meeting
 - [X] Research paper prep
-- [ ] Read and respond to a research paper
+- [X] Read and respond to a research paper
 - [ ] Set up group page and message Chinmay
-- [ ] Contact grad mentor about preferred form of communication
-- [ ] Ask advisor/mentor about 30-min meeting separate from research group meeting
+- [X] Contact grad mentor about preferred form of communication
+- [X] Ask advisor/mentor about 30-min meeting separate from research group meeting
 
 
 **Accomplished:**
+- Attended CS 165B Tuesday Lecture
 
 **Sunday (0.5 hours) Research Paper Prep**
  - I read and took notes on _[How to Read an Engineering Research Paper](https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html)_ using a [Google Doc](https://docs.google.com/document/d/1unK0qxUArQEp5eAXJGOXkT8TbEykZZeIV8mQt6xxS7s/edit?usp=sharing). I organized the key parts of the article that I would want to reference later on when I read a research paper such as the essential questions and tips.  I found that the article was helpful in preparing me to read a research paper efficiently. 
+
+**Monday (0.25 hours) Contacted Advisor/Mentor**
+- I drafted an email with Shamita to contact our advisor and mentors about their preferred form of communication and choosing a weekly meeting time that would work best for all of us.  I set up a when2meet for my group to fill out and send to our advisor and mentors to give them a general idea of our availability.  We sent the email draft to our group to get any thoughts or suggestions.  We made any final edits with the help or our teammates, and Shamita sent the email with us CC'ed.  
+
+**Tuesday (1.5 hours) Read Research Paper**
+- I read, annotated, and took notes on the research paper, “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding”.  My [notes](https://docs.google.com/document/d/1PoUccoQWEsk7Ggka9py5NHr3Jg__zT7L_zBdZ5leOo0/edit?usp=sharing) followed the guiding questions that Prof. Mirza provided us.  I found the guiding questions extremely helpful, especially with approaching a long and unfamiliar research paper.  I was able to read more purposefully and it helped me get a better understanding of the research paper.  It took me 1.5 hours which was longer than I expected.  I think next time, I will be able to read more efficiently.  
 
 # Week 1 (9/25-10/1)
 ## Meeting Summaries
