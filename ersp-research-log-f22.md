@@ -7,8 +7,8 @@
 - Date/Time/Location, Attended, Presenter(s), Learned, Interactions with Prof, Tasks, Questions 
 
 **Team Meeting**
-- Friday, Oct. 7 @ Library
-- Absentees: Edwin
+- Friday, Oct. 14 @ Library
+- Absentees: 
 - Tasks: 
 - Link to Notes
 
