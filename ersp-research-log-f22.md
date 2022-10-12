@@ -4,7 +4,7 @@
 # Week 3 (10/9-10/15)
 ## Meeting Summaries
 **Grad Mentor/Research Group Meeting**
-- Date/Time/Location, Attended, Presenter(s), Learned, Interactions with Prof, Tasks, Questions 
+- Friday Oct. 14 6pm  
 
 **Team Meeting**
 - Friday, Oct. 14 @ Library
@@ -17,8 +17,8 @@
 - New Insights, Challenges Resolved, Questions:   
 
 ## Weekly Goals:
-- [ ] Finish deeper reading of research paper
-- [ ] Prepare for 3-min presentation on BERT paper
+- [X] Finish deeper reading of research paper
+- [X] Prepare for 3-min presentation on BERT paper
 - [ ] Choose a teaching topic
 - [ ] Prepare to teach group on technical topic
 - [ ] Have second group meeting
@@ -26,6 +26,12 @@
 
 **Accomplished:**
 - 
+
+**Sunday (1 hour) Deeper Reading**
+-  I completed a deeper reading on the BERT research.  Since I was reading through it again after clearing up confusions with terms and concepts, I had an easier time progressing through the paper.  I also gained a better understanding by reading through it again.  I like summarizing my findings and understandings with the guided questions since I'm able to organize my thoughts and the main parts of the paper for myself.  I referenced my part 2 readings notes for the class presentation.  
+
+**Tuesday (1.5 hours) Teaching Topic** 
+- I chose to teach about transformers because new ML models are based on transformers such as BERT. BERT paper talked a lot about transformers, and my group didn't truly  understand what they really are. I think learning and teaching about transformers will widen my understanding of machine learning and NLP models. 
 
 # Week 2 (10/2-10/8)
 ## Meeting Summaries
