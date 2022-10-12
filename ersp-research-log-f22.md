@@ -32,6 +32,7 @@
 
 **Tuesday (1.5 hours) Teaching Topic** 
 - I chose to teach about transformers because new ML models are based on transformers such as BERT. BERT paper talked a lot about transformers, and my group didn't truly  understand what they really are. I think learning and teaching about transformers will widen my understanding of machine learning and NLP models. 
+- I took notes from YouTube videos by Google Cloud Tech.  In addition, I searched and took notes on terms and concepts from the videos that were unclear, and I found visuals that illustrated the concepts.   
 
 # Week 2 (10/2-10/8)
 ## Meeting Summaries
