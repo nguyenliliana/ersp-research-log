@@ -28,13 +28,13 @@
 
 I want my student to be able to explain the steps within a Transformer architecture.  From the presentation, they should understand how a transformer is able to an attention mechanism that learns contextual relations between words in a text.    
 
-> Explanations including visual aids
+> How are you using visual aids for your explanations? 
 
 My slides are mostly visuals that depict multiple steps and concepts within the Transformer architecute, such as self and cross attention.
 
-> One exercise or set of problems or review questions that your "student" will perform or answer at the end of your session.
+> What exercise or review question will you have your "student" perform or answer at the end of your session?
 
-For my exercise at the end, I will provide a picture of the Transformer architecture with no labels, and ask them to explain the image as much as they can remember and understand.  
+For my exercise at the end, I will provide a picture of the Transformer architecture with no labels, and ask them to explain the image as much as they can remember and understand.  At the end, I will fill in missing areas.   
 
 # Week 3 (10/9-10/15)
 ## Meeting Summaries
