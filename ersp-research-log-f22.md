@@ -14,7 +14,7 @@
 - [X] Finish preparing for teaching topic. 
 - [ ] Literature Search and Proposal Preliminary Work
 - [ ] Research group meeting
-- [ ] 
+ 
 
 
 
