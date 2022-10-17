@@ -1,16 +1,49 @@
 # LILIANA'S RESEARCH LOG
 ## [Reading Logs](https://docs.google.com/document/d/1PoUccoQWEsk7Ggka9py5NHr3Jg__zT7L_zBdZ5leOo0/edit?usp=sharing)
 
+# Week 4 (10/16-10/22)
+## Meeting Summaries
+**Research Group Meeting w/ Prof. Chang and Grad Mentors**
+- Date/Time: Friday Oct. 21 6-7pm 
+
+**Meeting with Chinmay**
+- (starts in 2nd half of the Fall quarter)
+- New Insights, Challenges Resolved, Questions:   
+
+## Weekly Goals:
+- [X] Finish preparing for teaching topic. 
+- [ ] Literature Search and Proposal Preliminary Work
+- [ ] Research group meeting
+- [ ] 
+
+
+
+**Accomplished:**
+
+**Sunday (4 hours) Teaching Topic** 
+- I chose to teach about transformers, since it is an essential part of NLP models and specifically BERT. First, I did general research on the Transformer architecture, and then, narrowed my research to better explain the different components/steps.  After finishing my research notes on Google Docs, I made a Google slides presentation where I used mostly visuals to illustrate my teachings.  I prepared speaker notes to assist my presentation. 
+
+*Teaching Topic Questions*
+> What do you want your "student" to be able to know and do at the end of the session?
+
+I want my student to be able to explain the steps within a Transformer architecture.  From the presentation, they should understand how a transformer is able to an attention mechanism that learns contextual relations between words in a text.    
+
+> Explanations including visual aids
+
+My slides are mostly visuals that depict multiple steps and concepts within the Transformer architecute, such as self and cross attention.
+
+> One exercise or set of problems or review questions that your "student" will perform or answer at the end of your session.
+
+For my exercise at the end, I will provide a picture of the Transformer architecture with no labels, and ask them to explain the image as much as they can remember and understand.  
+
 # Week 3 (10/9-10/15)
 ## Meeting Summaries
-**Grad Mentor/Research Group Meeting**
-- Friday Oct. 14 6pm  
-
-**Team Meeting**
-- Friday, Oct. 14 @ Library
-- Absentees: 
-- Tasks: 
-- Link to Notes
+**Research Group Meeting w/ Prof. Chang and Grad Mentors**
+- Date/Time: Friday Oct. 14 6-7pm  
+- Weekly meetings Friday 6-7pm (in-person @Phelps 3530).
+- NLP Research Meeting: Tues 3-4pm (@HFH 1132).
+- Slack communication will be set up.
+- Plan is to have weekly assignments and present our understandings (mainly PyTorch).
 
 **Meeting with Chinmay**
 - (starts in 2nd half of the Fall quarter)
@@ -19,13 +52,14 @@
 ## Weekly Goals:
 - [X] Finish deeper reading of research paper
 - [X] Prepare for 3-min presentation on BERT paper
-- [ ] Choose a teaching topic
-- [ ] Prepare to teach group on technical topic
-- [ ] Have second group meeting
+- [X] Choose a teaching topic
+- [X] Prepare to teach group on technical topic
+- [X] Have second group meeting
 
 
 **Accomplished:**
-- 
+- Attended Tuesday CS 165B lecture
+- Had first meeting with Prof. Chang and grad mentors
 
 **Sunday (1 hour) Deeper Reading**
 -  I completed a deeper reading on the BERT research.  Since I was reading through it again after clearing up confusions with terms and concepts, I had an easier time progressing through the paper.  I also gained a better understanding by reading through it again.  I like summarizing my findings and understandings with the guided questions since I'm able to organize my thoughts and the main parts of the paper for myself.  I referenced my part 2 readings notes for the class presentation.  
@@ -35,16 +69,13 @@
 - I took notes from YouTube videos by Google Cloud Tech.  In addition, I searched and took notes on terms and concepts from the videos that were unclear, and I found visuals that illustrated the concepts.   
 
 # Week 2 (10/2-10/8)
-## Meeting Summaries
-**Grad Mentor/Research Group Meeting**
-- Date/Time/Location, Attended, Presenter(s), Learned, Interactions with Prof, Tasks, Questions 
+## Meeting Summaries 
 
 **Team Meeting**
 - Friday, Oct. 7 @ Library
 - Absentees: Edwin
 - Tasks: Prepare for presentation on BERT paper
 - [Link to Notes](https://docs.google.com/document/d/1WacnE0pgiFf6AJWSzdX2_lNgiEeIEsQM5zRqOD7xafo/edit?usp=sharing)
-
 
 **Meeting with Chinmay**
 - (starts in 2nd half of the Fall quarter)
