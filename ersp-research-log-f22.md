@@ -19,7 +19,8 @@
 
 
 **Accomplished:**
-
+- Attended the NLP Reading Group for the first time!
+- 
 **Sunday (4 hours) Teaching Topic** 
 - I chose to teach about transformers, since it is an essential part of NLP models and specifically BERT. First, I did general research on the Transformer architecture, and then, narrowed my research to better explain the different components/steps.  After finishing my research notes on Google Docs, I made a Google slides presentation where I used mostly visuals to illustrate my teachings.  I prepared speaker notes to assist my presentation. 
 
