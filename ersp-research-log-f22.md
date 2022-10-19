@@ -37,7 +37,7 @@ My slides are mostly visuals that depict multiple steps and concepts within the 
 
 For my exercise at the end, I will provide a picture of the Transformer architecture with no labels, and ask them to explain the image as much as they can remember and understand.  At the end, I will fill in missing areas.   
 
-**Tuesday (0.5 hour) Literature Search **
+**Tuesday (0.5 hour) Literature Search**
 - I completed the first part of our literature search which was to find existing works that most closely relate to our BERT paper.  I chose works that were referenced multiple times throughout the paper and contributed important insight. I organized my findings on the group Mural with the work's title, venue, and authors. I used arrows and labels to show the correlations. 
 # Week 3 (10/9-10/15)
 ## Meeting Summaries
