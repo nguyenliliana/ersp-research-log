@@ -10,7 +10,7 @@ The goal of this research is to leverage automatic question-answer generation to
 - Friday, Oct. 28 @ Phelps 3530
 
 **Research Group Meeting (Undergrads)**
-- 
+
 
 
 ## Weekly Goals:
