@@ -30,7 +30,7 @@ I extended my literature search to include papers after the BERT paper and chose
 **Research Group Meeting w/ Prof. Chang and Grad Mentors**
 - Weekly meetings start Week 5
 
-**Research Group Meeting (Undergrads)
+**Research Group Meeting (Undergrads)**
 - Friday, Oct. 21 @ Zoom 
 - Absentees: None
 - Tasks: Finish Extended Literature Search & Complete Mural and Update Overleaf doc
