@@ -9,7 +9,7 @@ The goal of this research is to leverage automatic question-answer generation to
 **Research Group Meeting w/ Prof. Chang and Grad Mentors**
 - Friday, Oct. 28 @ Phelps 3530
 
-**Research Group Meeting (Undergrads)
+**Research Group Meeting (Undergrads)**
 - 
 
 
