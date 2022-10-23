@@ -45,7 +45,9 @@ For my exercise at the end, I will provide a picture of the Transformer architec
 - I completed the first part of our literature search which was to find existing works that most closely relate to our BERT paper.  I chose works that were referenced multiple times throughout the paper and contributed important insight. I organized my findings on the group Mural with the work's title, venue, and authors. I used arrows and labels to show the correlations. 
 
 **Sunday (1 hour) Extended Literature Search**
-I extended my literature search to include papers after the BERT paper and chose specific ones that aligned more closely with our research topic. 
+I extended my literature search to include papers after the BERT paper and chose specific ones that aligned more closely with our research topic. I utilized Google Scholars to find papers that cited the BERt paper.  In addition, I searched the ACL proceedings to find recent papers in the past two years that involved models that implemented QA and conversation.  I organized my findings on the group Mural and added the papers to the Related Works and References section of our project proposal draft.  
+
+
 # Week 3 (10/9-10/15)
 ## Meeting Summaries
 **Research Group Meeting w/ Prof. Chang and Grad Mentors**
