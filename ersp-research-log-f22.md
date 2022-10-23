@@ -22,7 +22,7 @@ The goal of this research is to leverage automatic question-answer generation to
 
 **Accomplished:**
 
-**Sunday (1 hour) Extended Literature Search**
+**Sunday (1.5 hour) Extended Literature Search**
 I extended my literature search to include papers after the BERT paper and chose specific ones that aligned more closely with our research topic. I utilized Google Scholars to find papers that cited the BERt paper.  In addition, I searched the ACL proceedings to find recent papers in the past two years that involved models that implemented QA and conversation.  I organized my findings on the group Mural and added the papers to the Related Works and References section of our project proposal draft.  
 
 # Week 4 (10/16-10/22)
