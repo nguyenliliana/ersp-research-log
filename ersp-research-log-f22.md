@@ -15,15 +15,18 @@ The goal of this research is to leverage automatic question-answer generation to
 
 ## Weekly Goals:
 - [X] Complete literature search part 2
-- [ ] Reflection 2
-- [ ] Complete literature search part 3
-- [ ] Research meeting
+- [X] Reflection 2
+- [X] Complete literature search part 3
+- [X] Research meeting
  
 
 **Accomplished:**
 
-**Sunday (1.5 hour) Extended Literature Search**
+**Sunday (1.5 hour) Extended Literature Search Part 2**
 I extended my literature search to include papers after the BERT paper and chose specific ones that aligned more closely with our research topic. I utilized Google Scholars to find papers that cited the BERt paper.  In addition, I searched the ACL proceedings to find recent papers in the past two years that involved models that implemented QA and conversation.  I organized my findings on the group Mural and added the papers to the Related Works and References section of our project proposal draft.  
+
+**Friday (2 hours) Extended Literature Search Part 3**
+During our group meeting, we brainstormed for the "Research context and problem statement" section.  After discussing thoroughly, we put our ideas into full and concise sentences.  We spent time revising and finalizing it in order to make a clear introduction and transition to our problem statement.  We made a list of clarifying questions to ask Prof. Chang and our mentors. In addition, we also chose three references to discuss.  I chose one and analyzed how others have addressed similar problems and why are their solutions were not sufficient.  
 
 # Week 4 (10/16-10/22)
 ## Meeting Summaries
