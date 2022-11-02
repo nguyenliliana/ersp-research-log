@@ -10,7 +10,9 @@ The goal of this research is to leverage automatic question-answer generation to
 - Friday, Oct. 28 @ Phelps 3530
 
 **Research Group Meeting (Undergrads)**
-
+- Friday Oct. 28 @ Library
+- Tasks: Finish Research Context and Problem Statement and Related Work
+- Goals: Finish Intro PyTorch & Text Classification Model
 
 
 ## Weekly Goals:
@@ -27,6 +29,12 @@ I extended my literature search to include papers after the BERT paper and chose
 
 **Friday (2 hours) Extended Literature Search Part 3**
 During our group meeting, we brainstormed for the "Research context and problem statement" section.  After discussing thoroughly, we put our ideas into full and concise sentences.  We spent time revising and finalizing it in order to make a clear introduction and transition to our problem statement.  We made a list of clarifying questions to ask Prof. Chang and our mentors. In addition, we also chose three references to discuss.  I chose one and analyzed how others have addressed similar problems and why are their solutions were not sufficient.  
+
+> SDNet: Contextualized Attention-Based Deep Network For Conversational Question Answering
+Conversational Question Answering (CoQA) requires a model to be capable of reading a passage and answer questions in dialogue.  To incorporate conversation into reading comprehension, models are required to fully understand the given passage and context of previous questions and answers to provide accurate responses.  So, traditional neural MRC (Machien Reading Comprehension) models are not suitable to be directly applied to this scenario. The paper proposes SDNet which is a contextual attention-based deep neural network for the task of CoQA with state of the art results where its effectiveness outperformed the previous best model by 1.6% F1.  This was achieved by implementing the use of interattention and self-attention along with Recurrent BIdirectional LSTM layers.
+> Natural Language Processing and its Use in Education
+
+> Paper 3
 
 # Week 4 (10/16-10/22)
 ## Meeting Summaries
