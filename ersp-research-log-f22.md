@@ -36,7 +36,9 @@ Conversational Question Answering (CoQA) requires a model to be capable of readi
 > Generate: A NLG system for Educational Content Creation
 
 Generate is a proposed AI-human hybrid system that addresses the generation of assessment content in an efficient and scalable way.  The system implements NLG approaches and Transformer architecture to leverage substantive pretraining on several generic text as corpora to produce sophisicated context-dependent text as the basis for item creation.  Their solution is insufficient because it does not provide the option for free response style questions.  Another issue, is that Generate requires for specifications such as providing a content map or item type and topics to be generated, but the general user may not understand how to provide the best inputs for the AI model to perform well, which would be unintuitive for teachers.  
-> 
+> Asking Questions the Human Way: Scalable Question-Answer Generation from Text Corpus
+
+ACS-QG is proposed by Liu et a. to improve on the ineffectiveness of current models to generate quality and diverse question-answer pairs for unstructured text  It's BERT-based and extracts multiple types of information from text to improve question generation.  While the model can create the original question-answer pair, it is insufficent in creating follow up questions based on the user's answer. 
 
 # Week 4 (10/16-10/22)
 ## Meeting Summaries
