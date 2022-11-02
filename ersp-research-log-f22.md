@@ -4,6 +4,25 @@
 ## Project Description
 The goal of this research is to leverage automatic question-answer generation to develop an integrated system where teachers can collaborate with AI to create and customize interactive reading resources with question-answering functions for their students from kindergarten through second grade. Throughout this project, students will have a chance to 1) develop innovative AI models that expand the state-of-the-art NLP techniques (e.g., BERT, GPT) for automatically generating question-answer pairs for reading materials and customizing the training to meet the unique requirements of an educational context; and 2) building a dialog system with graphical user interfaces that is able to a) ask children a question, b) provide tailored feedback and explanation to children’s response, and/or c) rephrase the original question (usually open-ended) to a multiple-choice question as a way of scaffolding if the children do not answer the original question or answer it incorrectly.
 
+# Week 6 (10/30-11/5)
+## Meeting Summaries
+**Research Group Meeting w/ Prof. Chang and Grad Mentors**
+- Friday, Nov. 4 @ Phelps 3530
+- Present our understanding of introductory PyTorch
+
+**Research Group Meeting (Undergrads)**
+- Friday, Nov. 4 @ Library (before meeting with Prof)
+
+## Weekly Goals:
+- [ ] Revise and Finalize Proposal part 1: Proposed problem and related work.
+- [ ] Read papers given by mentors. 
+- [ ] Finish Introduction to Pytorch. 
+- [ ] Understand Text Classification Model.
+ 
+
+**Accomplished:**
+
+
 # Week 5 (10/23-10/29)
 ## Meeting Summaries
 **Research Group Meeting w/ Prof. Chang and Grad Mentors**
@@ -23,11 +42,13 @@ The goal of this research is to leverage automatic question-answer generation to
  
 
 **Accomplished:**
+- Attended NLP Reading Group
+- Completed half of the Introduction to PyTorch
 
-**Sunday (1.5 hour) Extended Literature Search Part 2**
+**Sunday (1.5 hour) Extended Literature Search**
 I extended my literature search to include papers after the BERT paper and chose specific ones that aligned more closely with our research topic. I utilized Google Scholars to find papers that cited the BERt paper.  In addition, I searched the ACL proceedings to find recent papers in the past two years that involved models that implemented QA and conversation.  I organized my findings on the group Mural and added the papers to the Related Works and References section of our project proposal draft.  
 
-**Friday (2 hours) Extended Literature Search Part 3**
+**Friday (2 hours) Proposal Part 1: Proposed Problem and Related Work**
 During our group meeting, we brainstormed for the "Research context and problem statement" section.  After discussing thoroughly, we put our ideas into full and concise sentences.  We spent time revising and finalizing it in order to make a clear introduction and transition to our problem statement.  We made a list of clarifying questions to ask Prof. Chang and our mentors. In addition, we also chose three references to discuss.  I chose one and analyzed how others have addressed similar problems and why are their solutions were not sufficient.  
 
 > SDNet: Contextualized Attention-Based Deep Network For Conversational Question Answering
