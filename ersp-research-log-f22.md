@@ -32,9 +32,9 @@ During our group meeting, we brainstormed for the "Research context and problem 
 
 > SDNet: Contextualized Attention-Based Deep Network For Conversational Question Answering
 Conversational Question Answering (CoQA) requires a model to be capable of reading a passage and answer questions in dialogue.  To incorporate conversation into reading comprehension, models are required to fully understand the given passage and context of previous questions and answers to provide accurate responses.  So, traditional neural MRC (Machien Reading Comprehension) models are not suitable to be directly applied to this scenario. The paper proposes SDNet which is a contextual attention-based deep neural network for the task of CoQA with state of the art results where its effectiveness outperformed the previous best model by 1.6% F1.  This was achieved by implementing the use of interattention and self-attention along with Recurrent BIdirectional LSTM layers.
-> Natural Language Processing and its Use in Education
-
-> Paper 3
+> Generate: A NLG system for Educational Content Creation
+Generate is a proposed AI-human hybrid system that addresses the generation of assessment content in an efficient and scalable way.  The system implements NLG approaches and Transformer architecture to leverage substantive pretraining on several generic text as corpora to produce sophisicated context-dependent text as the basis for item creation.  Their solution is insufficient because it does not provide the option for free response style questions.  Another issue, is that Generate requires for specifications such as providing a content map or item type and topics to be generated, but the general user may not understand how to provide the best inputs for the AI model to perform well, which would be unintuitive for teachers.  
+> 
 
 # Week 4 (10/16-10/22)
 ## Meeting Summaries
