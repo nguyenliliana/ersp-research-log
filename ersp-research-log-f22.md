@@ -7,21 +7,22 @@ The goal of this research is to leverage automatic question-answer generation to
 # Week 6 (10/30-11/5)
 ## Meeting Summaries
 **Research Group Meeting w/ Prof. Chang and Grad Mentors**
-- Friday, Nov. 4 @ Phelps 3530
+- [Friday, Nov. 4](https://docs.google.com/document/d/1aZAPX7DiJDm612g00SXtV9bSFanentMxM5fggmdxGR4/edit?usp=sharing) @ Phelps 3530
 - Present our understanding of introductory PyTorch
 
 **Research Group Meeting (Undergrads)**
-- Friday, Nov. 4 @ Library (before meeting with Prof)
+- Monday, Nov. 9 (Virtual): Text Classification Model & Proposed Solution Section
 
 ## Weekly Goals:
-- [ ] Revise and Finalize Proposal part 1: Proposed problem and related work.
+- [X] Draft Proposed solution section.
 - [ ] Read papers given by mentors. 
-- [ ] Finish Introduction to Pytorch. 
+- [X] Finish Introduction to Pytorch. 
 - [ ] Understand Text Classification Model.
  
 
 **Accomplished:**
-
+**Monday (2 hours) Proposed Solution**
+I attended a group meeting with my fellow undergrads where we discussed the proposed solution section.  The previous week, we had asked our grad mentors what the exact technical impementations the project would be executing.  He was extemely helpful in sending us a detailed response with an overview of the solution and reference papers.  The solution consisted of two modules, so we divided ourselves into two group to focus on each module.  I decided to take on the question-answer pair generation module.  I read about the technical contributions and detailed setup and translated my understanding over to the draft. 
 
 # Week 5 (10/23-10/29)
 ## Meeting Summaries
@@ -43,7 +44,7 @@ The goal of this research is to leverage automatic question-answer generation to
 
 **Accomplished:**
 - Attended NLP Reading Group
-- Completed half of the Introduction to PyTorch
+- Completed Introduction to PyTorch
 
 **Sunday (1.5 hour) Extended Literature Search**
 I extended my literature search to include papers after the BERT paper and chose specific ones that aligned more closely with our research topic. I utilized Google Scholars to find papers that cited the BERt paper.  In addition, I searched the ACL proceedings to find recent papers in the past two years that involved models that implemented QA and conversation.  I organized my findings on the group Mural and added the papers to the Related Works and References section of our project proposal draft.  
