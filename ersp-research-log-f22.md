@@ -7,11 +7,11 @@ The goal of this research is to leverage automatic question-answer generation to
 # Week 6 (10/30-11/5)
 ## Meeting Summaries
 **Research Group Meeting w/ Prof. Chang and Grad Mentors**
-- [Friday, Nov. 4](https://docs.google.com/document/d/1aZAPX7DiJDm612g00SXtV9bSFanentMxM5fggmdxGR4/edit?usp=sharing) @ Phelps 3530
+- Friday, Nov. 4 @ Phelps 3530
 - Present our understanding of introductory PyTorch
 
 **Research Group Meeting (Undergrads)**
-- Monday, Nov. 9 (Virtual): Text Classification Model & Proposed Solution Section
+- [Monday, Nov. 9 (Virtual)](https://docs.google.com/document/d/1aZAPX7DiJDm612g00SXtV9bSFanentMxM5fggmdxGR4/edit?usp=sharing): Text Classification Model & Proposed Solution Section
 
 ## Weekly Goals:
 - [X] Draft Proposed solution section.
