@@ -19,6 +19,7 @@ The goal of this research is to leverage automatic question-answer generation to
 - [X] Peer Review Proposal
 
 **Accomplished:**
+
 **Sunday (2 hours) Evaluation and Implementation Plan**
 I attended a group meeting with my fellow undergrads where we discussed the proposed solution section.  The previous week, we had asked our grad mentors what the exact technical impementations the project would be executing.  He was extemely helpful in sending us a detailed response with an overview of the solution and reference papers.  The solution consisted of two modules, so we divided ourselves into two group to focus on each module.  I decided to take on the question-answer pair generation module.  I read about the technical contributions and detailed setup and translated my understanding over to the draft.  
 
@@ -40,6 +41,7 @@ I was assigned Professor Bultan's group's project proposal.  Their project is ab
 - [X] Reflection 3
 
 **Accomplished:**
+
 **Monday (2 hours) Proposed Solution**
 I attended a group meeting with my fellow undergrads where we discussed the proposed solution section.  The previous week, we had asked our grad mentors what the exact technical impementations the project would be executing.  He was extemely helpful in sending us a detailed response with an overview of the solution and reference papers.  The solution consisted of two modules, so we divided ourselves into two group to focus on each module.  I decided to take on the question-answer pair generation module.  I read about the technical contributions and detailed setup and translated my understanding over to the draft. 
 
