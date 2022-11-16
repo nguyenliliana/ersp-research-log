@@ -4,6 +4,45 @@
 ## Project Description
 The goal of this research is to leverage automatic question-answer generation to develop an integrated system where teachers can collaborate with AI to create and customize interactive reading resources with question-answering functions for their students from kindergarten through second grade. Throughout this project, students will have a chance to 1) develop innovative AI models that expand the state-of-the-art NLP techniques (e.g., BERT, GPT) for automatically generating question-answer pairs for reading materials and customizing the training to meet the unique requirements of an educational context; and 2) building a dialog system with graphical user interfaces that is able to a) ask children a question, b) provide tailored feedback and explanation to children’s response, and/or c) rephrase the original question (usually open-ended) to a multiple-choice question as a way of scaffolding if the children do not answer the original question or answer it incorrectly.
 
+# Week 8 (11/13-11/19)
+## Meeting Summaries
+**Research Group Meeting w/ Prof. Chang and Grad Mentors**
+- Nov 18 @ 6pm
+- Present individual text classification models. 
+
+**Research Group Meeting (Undergrads)**
+- Monday Nov 14: Text Classification Model Progress Check (Virtual)
+- Wednesay Nov 16: Text Classification Model Finalization (In-Person)
+
+## Weekly Goals:
+- [X] Draft Evaluation and Implementation Plan
+- [X] Peer Review Proposal
+
+**Accomplished:**
+**Sunday (2 hours) Evaluation and Implementation Plan**
+I attended a group meeting with my fellow undergrads where we discussed the proposed solution section.  The previous week, we had asked our grad mentors what the exact technical impementations the project would be executing.  He was extemely helpful in sending us a detailed response with an overview of the solution and reference papers.  The solution consisted of two modules, so we divided ourselves into two group to focus on each module.  I decided to take on the question-answer pair generation module.  I read about the technical contributions and detailed setup and translated my understanding over to the draft.  
+
+**Tuesday (1 hour) Peer Review Proposal**
+I was assigned Professor Bultan's group's project proposal.  Their project is about implementing a working prototype onto angr which will utilize differential symboic execution on order to recognize functional equivalence within code blocks.  Their project is also aiming to have a faster runtime performance.  I read through it three times in order to give a proper review of their introduction, related works, proposed solution, implementation plan, and evaluation. I prepared notes to provide feedback in class.  My two main suggestions is to make a clear distinction as to what their new technical contribution is and to define their metrics more clearly in their evaluation plan. 
+
+# Week 7 (11/6-11/12)
+## Meeting Summaries
+**Research Group Meeting w/ Prof. Chang and Grad Mentors**
+- Meeting canceled for holiday. 
+
+**Research Group Meeting (Undergrads)**
+- [Monday, Nov. 9 (Virtual)](https://docs.google.com/document/d/1aZAPX7DiJDm612g00SXtV9bSFanentMxM5fggmdxGR4/edit?usp=sharing): Text Classification Model & Proposed Solution Section
+- Friday, Nov. 11 (In-Person): Text Classification Model Progress Check and Proposal Revisions 
+
+## Weekly Goals:
+- [X] Draft Proposed solution section.
+- [X] Read papers assigned by mentors. 
+- [X] Reflection 3
+
+**Accomplished:**
+**Monday (2 hours) Proposed Solution**
+I attended a group meeting with my fellow undergrads where we discussed the proposed solution section.  The previous week, we had asked our grad mentors what the exact technical impementations the project would be executing.  He was extemely helpful in sending us a detailed response with an overview of the solution and reference papers.  The solution consisted of two modules, so we divided ourselves into two group to focus on each module.  I decided to take on the question-answer pair generation module.  I read about the technical contributions and detailed setup and translated my understanding over to the draft. 
+
 # Week 6 (10/30-11/5)
 ## Meeting Summaries
 **Research Group Meeting w/ Prof. Chang and Grad Mentors**
@@ -14,15 +53,26 @@ The goal of this research is to leverage automatic question-answer generation to
 - [Monday, Nov. 9 (Virtual)](https://docs.google.com/document/d/1aZAPX7DiJDm612g00SXtV9bSFanentMxM5fggmdxGR4/edit?usp=sharing): Text Classification Model & Proposed Solution Section
 
 ## Weekly Goals:
-- [X] Draft Proposed solution section.
+- [X] Draft Proposed problem and Related Work
 - [ ] Read papers given by mentors. 
 - [X] Finish Introduction to Pytorch. 
-- [ ] Understand Text Classification Model.
+- [X] Understand Text Classification Model.
  
 
 **Accomplished:**
-**Monday (2 hours) Proposed Solution**
-I attended a group meeting with my fellow undergrads where we discussed the proposed solution section.  The previous week, we had asked our grad mentors what the exact technical impementations the project would be executing.  He was extemely helpful in sending us a detailed response with an overview of the solution and reference papers.  The solution consisted of two modules, so we divided ourselves into two group to focus on each module.  I decided to take on the question-answer pair generation module.  I read about the technical contributions and detailed setup and translated my understanding over to the draft. 
+**Sunday (2 hours) Proposal Part 1: Proposed Problem and Related Work**
+During our group meeting, we brainstormed for the "Research context and problem statement" section.  After discussing thoroughly, we put our ideas into full and concise sentences.  We spent time revising and finalizing it in order to make a clear introduction and transition to our problem statement.  We made a list of clarifying questions to ask Prof. Chang and our mentors. In addition, we also chose three references to discuss.  I chose one and analyzed how others have addressed similar problems and why are their solutions were not sufficient.  
+
+> SDNet: Contextualized Attention-Based Deep Network For Conversational Question Answering
+
+Conversational Question Answering (CoQA) requires a model to be capable of reading a passage and answer questions in dialogue.  To incorporate conversation into reading comprehension, models are required to fully understand the given passage and context of previous questions and answers to provide accurate responses.  So, traditional neural MRC (Machien Reading Comprehension) models are not suitable to be directly applied to this scenario. The paper proposes SDNet which is a contextual attention-based deep neural network for the task of CoQA with state of the art results where its effectiveness outperformed the previous best model by 1.6% F1.  This was achieved by implementing the use of interattention and self-attention along with Recurrent BIdirectional LSTM layers.
+> Generate: A NLG system for Educational Content Creation
+
+Generate is a proposed AI-human hybrid system that addresses the generation of assessment content in an efficient and scalable way.  The system implements NLG approaches and Transformer architecture to leverage substantive pretraining on several generic text as corpora to produce sophisicated context-dependent text as the basis for item creation.  Their solution is insufficient because it does not provide the option for free response style questions.  Another issue, is that Generate requires for specifications such as providing a content map or item type and topics to be generated, but the general user may not understand how to provide the best inputs for the AI model to perform well, which would be unintuitive for teachers.  
+> Asking Questions the Human Way: Scalable Question-Answer Generation from Text Corpus
+
+ACS-QG is proposed by Liu et a. to improve on the ineffectiveness of current models to generate quality and diverse question-answer pairs for unstructured text  It's BERT-based and extracts multiple types of information from text to improve question generation.  While the model can create the original question-answer pair, it is insufficent in creating follow up questions based on the user's answer. 
+
 
 # Week 5 (10/23-10/29)
 ## Meeting Summaries
@@ -49,18 +99,6 @@ I attended a group meeting with my fellow undergrads where we discussed the prop
 **Sunday (1.5 hour) Extended Literature Search**
 I extended my literature search to include papers after the BERT paper and chose specific ones that aligned more closely with our research topic. I utilized Google Scholars to find papers that cited the BERt paper.  In addition, I searched the ACL proceedings to find recent papers in the past two years that involved models that implemented QA and conversation.  I organized my findings on the group Mural and added the papers to the Related Works and References section of our project proposal draft.  
 
-**Friday (2 hours) Proposal Part 1: Proposed Problem and Related Work**
-During our group meeting, we brainstormed for the "Research context and problem statement" section.  After discussing thoroughly, we put our ideas into full and concise sentences.  We spent time revising and finalizing it in order to make a clear introduction and transition to our problem statement.  We made a list of clarifying questions to ask Prof. Chang and our mentors. In addition, we also chose three references to discuss.  I chose one and analyzed how others have addressed similar problems and why are their solutions were not sufficient.  
-
-> SDNet: Contextualized Attention-Based Deep Network For Conversational Question Answering
-
-Conversational Question Answering (CoQA) requires a model to be capable of reading a passage and answer questions in dialogue.  To incorporate conversation into reading comprehension, models are required to fully understand the given passage and context of previous questions and answers to provide accurate responses.  So, traditional neural MRC (Machien Reading Comprehension) models are not suitable to be directly applied to this scenario. The paper proposes SDNet which is a contextual attention-based deep neural network for the task of CoQA with state of the art results where its effectiveness outperformed the previous best model by 1.6% F1.  This was achieved by implementing the use of interattention and self-attention along with Recurrent BIdirectional LSTM layers.
-> Generate: A NLG system for Educational Content Creation
-
-Generate is a proposed AI-human hybrid system that addresses the generation of assessment content in an efficient and scalable way.  The system implements NLG approaches and Transformer architecture to leverage substantive pretraining on several generic text as corpora to produce sophisicated context-dependent text as the basis for item creation.  Their solution is insufficient because it does not provide the option for free response style questions.  Another issue, is that Generate requires for specifications such as providing a content map or item type and topics to be generated, but the general user may not understand how to provide the best inputs for the AI model to perform well, which would be unintuitive for teachers.  
-> Asking Questions the Human Way: Scalable Question-Answer Generation from Text Corpus
-
-ACS-QG is proposed by Liu et a. to improve on the ineffectiveness of current models to generate quality and diverse question-answer pairs for unstructured text  It's BERT-based and extracts multiple types of information from text to improve question generation.  While the model can create the original question-answer pair, it is insufficent in creating follow up questions based on the user's answer. 
 
 # Week 4 (10/16-10/22)
 ## Meeting Summaries
