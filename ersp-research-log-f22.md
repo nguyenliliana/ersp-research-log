@@ -12,8 +12,8 @@ The goal of this research is to leverage automatic question-answer generation to
 - Reflection: Our models worked, but they are not conventional uses of Bag of Words or TF-IDF.  The mentors explained to us the conventions and which parts of our code that we could improve. 
 
 **Research Group Meeting (Undergrads)**
-- Monday Nov 14: Text Classification Model Progress Check (Virtual)
-- Wednesay Nov 16: Text Classification Model Finalization (In-Person)
+- Monday Nov 14: Text Classification Model Progress Check- exchanged ideas and helped each other fix bugs (Virtual)
+- [Wednesay Nov 16: Text Classification Model Finalization & Revise Proposal (In-Person)] (https://docs.google.com/document/d/1RYQG6mx5mbA8hwumKXg3fXIxW1G_2asDkg1xo9kUVBo/edit?usp=sharing)
 
 ## Weekly Goals:
 - [X] Draft Evaluation and Implementation Plan
@@ -35,6 +35,7 @@ I was assigned Professor Bultan's group's project proposal.  Their project is ab
 **Research Group Meeting (Undergrads)**
 - [Monday, Nov. 9 (Virtual)](https://docs.google.com/document/d/1aZAPX7DiJDm612g00SXtV9bSFanentMxM5fggmdxGR4/edit?usp=sharing): Text Classification Model & Proposed Solution Section
 - Friday, Nov. 11 (In-Person): Text Classification Model Progress Check and Proposal Revisions 
+- Absentees: None
 
 ## Weekly Goals:
 - [X] Draft Proposed solution section.
@@ -51,9 +52,11 @@ I attended a group meeting with my fellow undergrads where we discussed the prop
 **Research Group Meeting w/ Prof. Chang and Grad Mentors**
 - Friday, Nov. 4 @ Phelps 3530
 - Present our understanding of introductory PyTorch
+- Reflection: We need to have a lower level of understanding of the technicalities of the text classification model. 
 
 **Research Group Meeting (Undergrads)**
 - [Monday, Nov. 9 (Virtual)](https://docs.google.com/document/d/1aZAPX7DiJDm612g00SXtV9bSFanentMxM5fggmdxGR4/edit?usp=sharing): Text Classification Model & Proposed Solution Section
+- Absentees: None
 
 ## Weekly Goals:
 - [X] Draft Proposed problem and Related Work
@@ -84,6 +87,7 @@ ACS-QG is proposed by Liu et a. to improve on the ineffectiveness of current mod
 
 **Research Group Meeting (Undergrads)**
 - Friday Oct. 28 @ Library
+- Absentees: None
 - Tasks: Finish Research Context and Problem Statement and Related Work
 - Goals: Finish Intro PyTorch & Text Classification Model
 
