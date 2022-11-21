@@ -13,7 +13,7 @@ The goal of this research is to leverage automatic question-answer generation to
 
 **Research Group Meeting (Undergrads)**
 - Monday Nov 14: Text Classification Model Progress Check- exchanged ideas and helped each other fix bugs (Virtual)
-- [Wednesay Nov 16: Text Classification Model Finalization & Revise Proposal (In-Person)] (https://docs.google.com/document/d/1RYQG6mx5mbA8hwumKXg3fXIxW1G_2asDkg1xo9kUVBo/edit?usp=sharing)
+- [Wednesay Nov 16: Text Classification Model Finalization & Revise Proposal (In-Person)](https://docs.google.com/document/d/1RYQG6mx5mbA8hwumKXg3fXIxW1G_2asDkg1xo9kUVBo/edit?usp=sharing)
 
 ## Weekly Goals:
 - [X] Draft Evaluation and Implementation Plan
