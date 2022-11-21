@@ -9,6 +9,7 @@ The goal of this research is to leverage automatic question-answer generation to
 **Research Group Meeting w/ Prof. Chang and Grad Mentors**
 - Nov 18 @ 6pm
 - Present individual text classification models. 
+- Reflection: Our models worked, but they are not conventional uses of Bag of Words or TF-IDF.  The mentors explained to us the conventions and which parts of our code that we could improve. 
 
 **Research Group Meeting (Undergrads)**
 - Monday Nov 14: Text Classification Model Progress Check (Virtual)
