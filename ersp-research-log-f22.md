@@ -4,6 +4,19 @@
 ## Project Description
 The goal of this research is to leverage automatic question-answer generation to develop an integrated system where teachers can collaborate with AI to create and customize interactive reading resources with question-answering functions for their students from kindergarten through second grade. Throughout this project, students will have a chance to 1) develop innovative AI models that expand the state-of-the-art NLP techniques (e.g., BERT, GPT) for automatically generating question-answer pairs for reading materials and customizing the training to meet the unique requirements of an educational context; and 2) building a dialog system with graphical user interfaces that is able to a) ask children a question, b) provide tailored feedback and explanation to children’s response, and/or c) rephrase the original question (usually open-ended) to a multiple-choice question as a way of scaffolding if the children do not answer the original question or answer it incorrectly.
 
+# Week 10 (11/27-12/3)
+## Meeting Summaries
+**Research Group Meeting w/ Prof. Chang and Grad Mentors**
+- Meeting TBD
+
+**Research Group Meeting (Undergrads)**
+- Monday, Nov. 28
+
+## Weekly Goals:
+- [ ] Final Proposal Revisions
+- [ ] Presentation Preparation
+
+**Accomplished:**
 
 # Week 9 (11/20-11/26)
 ## Meeting Summaries
@@ -15,6 +28,7 @@ The goal of this research is to leverage automatic question-answer generation to
 
 ## Weekly Goals:
 - [X] Proposal Revisions
+- [ ] Grad Student Interview
 
 **Accomplished:**
 **Sunday (3 hours) Proposal Revisions**
