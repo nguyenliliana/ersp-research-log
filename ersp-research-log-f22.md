@@ -4,6 +4,22 @@
 ## Project Description
 The goal of this research is to leverage automatic question-answer generation to develop an integrated system where teachers can collaborate with AI to create and customize interactive reading resources with question-answering functions for their students from kindergarten through second grade. Throughout this project, students will have a chance to 1) develop innovative AI models that expand the state-of-the-art NLP techniques (e.g., BERT, GPT) for automatically generating question-answer pairs for reading materials and customizing the training to meet the unique requirements of an educational context; and 2) building a dialog system with graphical user interfaces that is able to a) ask children a question, b) provide tailored feedback and explanation to children’s response, and/or c) rephrase the original question (usually open-ended) to a multiple-choice question as a way of scaffolding if the children do not answer the original question or answer it incorrectly.
 
+
+# Week 9 (11/20-11/26)
+## Meeting Summaries
+**Research Group Meeting w/ Prof. Chang and Grad Mentors**
+- No Meeting because Thanksgiving
+
+**Research Group Meeting (Undergrads)**
+- Meeting during Thanksgiving TBD
+
+## Weekly Goals:
+- [X] Proposal Revisions
+
+**Accomplished:**
+**Sunday (3 hours) Proposal Revisions**
+We had a group meeting to make large revisions to our proposal.  Our main concern was our motivation, research context, and problem statement section.  Since this was the first section we wrote weeks ago, it had many flaws and was not aligned to the main point of our research project.  So, we decided to start over from scratch.  We reevaluated as a group what we wanted the main takeaways to be and wrote it accordingly.  We had disagreements on what the purpose of the context section shoudld be and what content should be included for it. We decided to follow what the majority wanted and would see what feedback we would get for it on Wednesday from Prof. Mirza.  I wrote the first part of the context which went over the first sub-module of the QAG model. In addition, I wrote an introduction paragraph for the proposed solution which gave an overview of the final product before the subsections go into more technical detiail.  Lastly, I revised the BERT subsection of the related works section.  I wanted to explain the different models more clearly and point out how they build upon each other and how they differ.
+
 # Week 8 (11/13-11/19)
 ## Meeting Summaries
 **Research Group Meeting w/ Prof. Chang and Grad Mentors**
