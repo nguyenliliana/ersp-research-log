@@ -34,12 +34,16 @@ The goal of this research is to leverage automatic question-answer generation to
 **Sunday (3 hours) Proposal Revisions**
 We had a group meeting to make large revisions to our proposal.  Our main concern was our motivation, research context, and problem statement section.  Since this was the first section we wrote weeks ago, it had many flaws and was not aligned to the main point of our research project.  So, we decided to start over from scratch.  We reevaluated as a group what we wanted the main takeaways to be and wrote it accordingly.  We had disagreements on what the purpose of the context section shoudld be and what content should be included for it. We decided to follow what the majority wanted and would see what feedback we would get for it on Wednesday from Prof. Mirza.  I wrote the first part of the context which went over the first sub-module of the QAG model. In addition, I wrote an introduction paragraph for the proposed solution which gave an overview of the final product before the subsections go into more technical detiail.  Lastly, I revised the BERT subsection of the related works section.  I wanted to explain the different models more clearly and point out how they build upon each other and how they differ.
 
+**Wednesday (1 hour) Grad Student Interview**
+I interviewed Vaishali, a PhD studnet. Talking to Vaishali was extremely eyeopening in aspects of grad school involving research, academics, personal experiences, and career.  What surprised me was that grad students have felt discouraged or have had second thoughts about their research, and that this is a normal thing.  Over time, you learn to accept it and learn new ways to move through times where you feel stuck or discouraged.  In the end, you are working in a field/area that you are passionate in!  I learned that it’s important to try everything in undergrad, even the topics that you think you don’t like.  When you find a passion/interest, it will make your decision for grad school a lot easier, but it is normal to switch interests in grad school as well.  I feel like the grad student life is less mysterious now.  As a grad student, you have a flexible schedule of research, class, work (TA), and free time.  You build friendships with peers and professors.  Industry internships for grad students are different, and going into industry for a fulltime role as a grad student allows you to find specific roles of your interest that is beyond software engineering.  As a grad studnet, you are able to build a holistic view of computer science as a whole, further than you would in your undergrad.  Grad students have their ups and downs in their research, but ultimately they are working in a field that they are passionate with, and any progress is something to be proud of.  
+
+
 # Week 8 (11/13-11/19)
 ## Meeting Summaries
 **Research Group Meeting w/ Prof. Chang and Grad Mentors**
 - Nov 18 @ 6pm
 - Present individual text classification models. 
-- Reflection: Our models worked, but they are not conventional uses of Bag of Words or TF-IDF.  The mentors explained to us the conventions and which parts of our code that we could improve. 
+- Reflection: Our models worked, but they are not conventional uses of Bag of Words or TF-IDF.  The mentors explained to us the conventions and which parts of our code that we could improve. I found P(label) incorrectly since I divided the number of words in the label by the total number of words of all the labels, when instead, it should've been by number of docs instead of words.  
 
 **Research Group Meeting (Undergrads)**
 - Monday Nov 14: Text Classification Model Progress Check- exchanged ideas and helped each other fix bugs (Virtual)
@@ -48,6 +52,7 @@ We had a group meeting to make large revisions to our proposal.  Our main concer
 ## Weekly Goals:
 - [X] Draft Evaluation and Implementation Plan
 - [X] Peer Review Proposal
+- [X] Text Classification Model
 
 **Accomplished:**
 
@@ -56,6 +61,9 @@ I attended a group meeting with my fellow undergrads where we discussed the prop
 
 **Tuesday (1 hour) Peer Review Proposal**
 I was assigned Professor Bultan's group's project proposal.  Their project is about implementing a working prototype onto angr which will utilize differential symboic execution on order to recognize functional equivalence within code blocks.  Their project is also aiming to have a faster runtime performance.  I read through it three times in order to give a proper review of their introduction, related works, proposed solution, implementation plan, and evaluation. I prepared notes to provide feedback in class.  My two main suggestions is to make a clear distinction as to what their new technical contribution is and to define their metrics more clearly in their evaluation plan. 
+
+**Wednesday (3 hours) Text Classification Model**
+I finally had a breakthrough in my understanding of how to build a Text Classification Model. After watching a Naive Bayes video, I realized that it wasn't as complex as I orignally thought it had to be.  I completely started over, and wrote my code from scratch.  I tokenized the words and built a vocabulary using the training data.  Then, I found the term frequency of every word in the vocab for each label.  Next, I coded the Naive Bayes function which used the equation P(label|sentence) = P(label)* P(word1|label) * P(word2|label) * ... to return the label with the highest probabilty.  After testing my model on the testing data, it had an 89% accuracy.  
 
 # Week 7 (11/6-11/12)
 ## Meeting Summaries
