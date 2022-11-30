@@ -9,7 +9,7 @@ The goal of this research is to leverage automatic question-answer generation to
 **Research Group Meeting w/ Prof. Chang and Grad Mentors**
 - No meeting this week for Finals.
 
-**Meeting with Chinmay **
+**Meeting with Chinmay**
 - Tuesday, Nov. 29
 - We went over our proposal with Chinmay to receive further feedback on what we can improve on.  Main takeaways is to make our subproblems more clear within our problem statement, proposed solution, and evaluation. Overall, we fixed Prof. Mirza's concerns from her previous feedback. 
 
