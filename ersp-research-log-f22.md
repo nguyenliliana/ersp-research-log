@@ -7,16 +7,22 @@ The goal of this research is to leverage automatic question-answer generation to
 # Week 10 (11/27-12/3)
 ## Meeting Summaries
 **Research Group Meeting w/ Prof. Chang and Grad Mentors**
-- Meeting TBD
+- No meeting this week for Finals.
 
-**Research Group Meeting (Undergrads)**
-- Monday, Nov. 28
+**Meeting with Chinmay **
+- Tuesday, Nov. 29
+- We went over our proposal with Chinmay to receive further feedback on what we can improve on.  Main takeaways is to make our subproblems more clear within our problem statement, proposed solution, and evaluation. Overall, we fixed Prof. Mirza's concerns from her previous feedback. 
 
 ## Weekly Goals:
 - [ ] Final Proposal Revisions
 - [ ] Presentation Preparation
 
 **Accomplished:**
+**Sunday (4 hours) Proposal Revisions & Presentation)**
+I spent a majority of my time revising the related works section. We had written this section early on in the quarter, so it was poor in quality and understanding. I reread the related research papers and rewrote a majority of the related works section to better explain the technology, their shortcomings, and relation to our research. I also removed papers that I found irrelevant to our specific research topic. In addition, I improved flow by fixing transitions and making connections between the subsections and technology mentioned. In addition, I revised the introduction of the Proposed Solution to be more clear in explaining that our system will utilize a QAG module and Dialogue system together and how they would work together (although this is later revised by another team member after our mentors clarify that we will have 3 submodules instead consisting of QAG, Answer Check, and Next Turn Policy).
+
+**Tuesday (3 hours) Proposal Revisions**
+Our group highlighted the 3 main subproblems that our research is trying to solve, so I took upon the task of rewriting the Problem Statement section to encompass the general problem we were seeking to solve and introduce and explain the subproblems. Furthemrore, I tried my best to explain the Answer Check Module and Next Turn Policy Module. For the Answer Check Module, we could either build an NLU module, or with time constraints we could set a threshold and use the BLEU score to verify correctness. For the proposal, I chose to explain the method using BLEU score (however we will try to figure out the specifics of the NLU method). The design behind the Next Turn Policy is also unclear. Our mentors told us we can hard code a rule set for this part. From what I resaerched, we would create a mapping function that would map the current state to the next action based on the output from the Answer Check module. 
 
 # Week 9 (11/20-11/26)
 ## Meeting Summaries
@@ -28,7 +34,7 @@ The goal of this research is to leverage automatic question-answer generation to
 
 ## Weekly Goals:
 - [X] Proposal Revisions
-- [ ] Grad Student Interview
+- [X] Grad Student Interview
 
 **Accomplished:**
 **Sunday (3 hours) Proposal Revisions**
