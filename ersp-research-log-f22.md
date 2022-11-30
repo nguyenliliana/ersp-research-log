@@ -21,8 +21,11 @@ The goal of this research is to leverage automatic question-answer generation to
 **Sunday (4 hours) Proposal Revisions & Presentation)**
 I spent a majority of my time revising the related works section. We had written this section early on in the quarter, so it was poor in quality and understanding. I reread the related research papers and rewrote a majority of the related works section to better explain the technology, their shortcomings, and relation to our research. I also removed papers that I found irrelevant to our specific research topic. In addition, I improved flow by fixing transitions and making connections between the subsections and technology mentioned. In addition, I revised the introduction of the Proposed Solution to be more clear in explaining that our system will utilize a QAG module and Dialogue system together and how they would work together (although this is later revised by another team member after our mentors clarify that we will have 3 submodules instead consisting of QAG, Answer Check, and Next Turn Policy).
 
-**Tuesday (3 hours) Proposal Revisions**
+**Monday (3 hours) Proposal Revisions**
 Our group highlighted the 3 main subproblems that our research is trying to solve, so I took upon the task of rewriting the Problem Statement section to encompass the general problem we were seeking to solve and introduce and explain the subproblems. Furthemrore, I tried my best to explain the Answer Check Module and Next Turn Policy Module. For the Answer Check Module, we could either build an NLU module, or with time constraints we could set a threshold and use the BLEU score to verify correctness. For the proposal, I chose to explain the method using BLEU score (however we will try to figure out the specifics of the NLU method). The design behind the Next Turn Policy is also unclear. Our mentors told us we can hard code a rule set for this part. From what I resaerched, we would create a mapping function that would map the current state to the next action based on the output from the Answer Check module. 
+
+**Tuesday (1.5 hours) Presentation Prepration**
+I spent a few minutes reorganizing the slides to have mostly visuals and less words. A majority of the time, I was preparing my script for the presentation. For now, I will be presenting the first part of our proposed solution.  My group chose to prepare a script to ensure we stay within the time requirement and explain our proposal clearly. 
 
 # Week 9 (11/20-11/26)
 ## Meeting Summaries
