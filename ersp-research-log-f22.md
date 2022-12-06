@@ -14,8 +14,8 @@ The goal of this research is to leverage automatic question-answer generation to
 - We went over our proposal with Chinmay to receive further feedback on what we can improve on.  Main takeaways is to make our subproblems more clear within our problem statement, proposed solution, and evaluation. Overall, we fixed Prof. Mirza's concerns from her previous feedback. 
 
 ## Weekly Goals:
-- [ ] Final Proposal Revisions
-- [ ] Presentation Preparation
+- [X] Final Proposal Revisions
+- [X] Presentation Preparation
 
 **Accomplished:**
 **Sunday (4 hours) Proposal Revisions & Presentation)**
