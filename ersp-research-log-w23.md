@@ -10,7 +10,7 @@ The goal of this research is to leverage automatic question-answer generation to
 **Mon Jan 16: Learn Linear Regression and Gradient Descent**
 I watched Andrew Ng YouTube videos on linear regression and gradient descent as part of his Machine Learning series. 
 
-*Takeaways:*
+> Takeaways:
   1.Have some function J(θ<sub>0</sub>, θ<sub>1</sub>) and want min<sub>θ<sub>0</sub>, θ<sub>1</sub></sub> J(θ<sub>0</sub>, θ<sub>1</sub>)
   2. Start with some θ<sub>0</sub>, θ<sub>1</sub>
   3.Keep changing θ<sub>0</sub>, θ<sub>1</sub> to reduce J(θ<sub>0</sub>, θ<sub>1</sub>) until we end at minimum.
