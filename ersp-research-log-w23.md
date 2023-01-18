@@ -29,3 +29,8 @@ My mentors challenged my group to finetune pre-trained BERT model to do sentence
 I set up the colab, importing necessary modules like torchtext and pandas. I imported the MNLI dataset and organized it into a dataframe using pandas. I extracted the necessary columns to prepare for preprocessing. Columns after preprocessing: 
 1. gold_label
 2. sequence: \[cls] sentence 1 \[sep] sentence 2 \[sep]
+3. attention mask: \[1] * len(sentence) --> string
+4. token type:  \[0] * len(sentence) +  \[1] * len(sentence) --> string
+
+![Tux, the Linux mascot](/assets/images/tux.png)
+
