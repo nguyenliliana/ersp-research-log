@@ -11,7 +11,7 @@ The goal of this research is to leverage automatic question-answer generation to
 
 I watched videos first to get an overview of how BERT and Transformers work. Then, I read articles to get a technical understanding. 
 
-_Takeaway: _
+*Takeaway:*
 
 BERT is made up of stacked encoders from transformer architect as per the name, Bidirectional Encoder Representation from Transformer
 
@@ -19,7 +19,7 @@ BERT is made up of stacked encoders from transformer architect as per the name, 
 
 My mentors challenged my group to finetune pre-trained BERT model to do sentence pair classification with the MultiNLI dataset. 
 
-_Takeaways from today: _
+*Takeaways:*
 1. Load BERT model and attach an additional layer for classification
 2. Process and transform sentence-pair data for task
 3. Fine-tune BERT model for sentence pair classification
