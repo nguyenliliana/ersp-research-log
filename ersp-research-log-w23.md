@@ -11,7 +11,9 @@ The goal of this research is to leverage automatic question-answer generation to
 I watched Andrew Ng YouTube videos on linear regression and gradient descent as part of his Machine Learning series. 
 
 *Takeaways:*
-1. Choose θ<sub>0</sub>, θ
+1. Hypothesis: h<sub>θ</sub>(x) = θ<sub>0</sub> + θ<sub>1</sub>x
+2. Parameters: θ<sub>0</sub>, θ<sub>1</sub>
+3. Cost Function: J(θ<sub>0</sub>, θ<sub>1</sub>) = 1/(2m) $\sum_{i=1}^{m} (h<sub>0</sub>(x<sup>(i)</sup>-y<sup>(i)</sup>)^2$
 
 ## Week 1
 
