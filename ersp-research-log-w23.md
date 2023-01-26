@@ -5,6 +5,17 @@ This research log is meant for me to record my learning and research progress.
 ## Project Description
 The goal of this research is to leverage automatic question-answer generation to develop an integrated system where teachers can collaborate with AI to create and customize interactive reading resources with question-answering functions for their students from kindergarten through second grade. Throughout this project, students will have a chance to 1) develop innovative AI models that expand the state-of-the-art NLP techniques (e.g., BERT, GPT) for automatically generating question-answer pairs for reading materials and customizing the training to meet the unique requirements of an educational context; and 2) building a dialog system with graphical user interfaces that is able to a) ask children a question, b) provide tailored feedback and explanation to children’s response, and/or c) rephrase the original question (usually open-ended) to a multiple-choice question as a way of scaffolding if the children do not answer the original question or answer it incorrectly.
 
+## Week 3
+
+**Wed Jan 25: Begin to Replicate Yao's QAG System**
+
+
+
+**Tue Jan 24: Readings
+1. [Sequence to Sequence Learning with Neural Networks](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf) 
+2. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf)
+3. [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+
 ## Week 2
 
 **Mon Jan 16: Learn Linear Regression and Gradient Descent**
@@ -20,6 +31,9 @@ I watched Andrew Ng YouTube videos on linear regression and gradient descent as 
 **Tue Jan 17: Model Training**
 
 I learned how to load datsets as PyTorch tensors using the torchtext Field and TabularDataset. Batches are created with BucketIterator. I employ the BERT architecture with a single additional layer for output prediction with the class BERTNLIModel. The constructor initializes with bert, hidden dimension, and output dimension. The forward pass of the model gets embedded representation of the input and applies a linar layer 'self.out' to map it to the output. 
+
+**Fri Jan 20: Mentor Meeting**
+
 
 ## Week 1
 
