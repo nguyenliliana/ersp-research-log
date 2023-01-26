@@ -11,7 +11,7 @@ The goal of this research is to leverage automatic question-answer generation to
 
 
 
-**Tue Jan 24: Readings
+**Tue Jan 24: Readings**
 1. [Sequence to Sequence Learning with Neural Networks](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf) 
 2. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf)
 3. [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
