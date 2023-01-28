@@ -14,12 +14,14 @@ Readings:
 
 Progress: 
 1. (0) Preprocessed data for Finetuning BART QG. Files include test.source, test.target, val.source. val.target. I was confused as to why there wasn't code to write the processed training data to a file, but I realized that I could just write that missing part myself, so I will be doing that tomorrow. 
-2. (1) I was able to start fine-tuning BART QG with the preprocessed data, the GitHub repo provided. I fixed imports and file paths. Due to time constraints, I will continue this tomorrow. 
+2. (1) I was able to start fine-tuning BART QG with the preprocessed data that the GitHub repo provided. I fixed imports and file paths. Due to time constraints, I will continue this tomorrow. 
 3. (2) I fixed import errors and file paths. I was able to get everything to run until my runtime crashed due to running out of RAM. I may need to upgrade my Colab. 
 
 **Wed Jan 25: Begin to Replicate Yao's QAG System**
 
+Progress:
 1. Started looking through the files in the GitHub. Read through most of the code and tried to understand it.
+2. Met with mentor Yujian to discuss timeline for potential paper and any confusions with my readings. 
 
 
 **Tue Jan 24: Readings**
