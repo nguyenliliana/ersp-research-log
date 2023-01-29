@@ -7,27 +7,28 @@ The goal of this research is to leverage automatic question-answer generation to
 
 ## Week 3
 **Sat Jan 28: Finished Pre-Processing Data, Attempt to Fine-Tune BART QG**
-Progress: 
+
+> Progress: 
 1. (0) After adding the code to write the train split into the files, I finished preprocessing the data and saved it to my Google Drive. I will need to check with my teammates and mentors about whether the changes I made to the code are correct. Also, my processed data looks different than the preprocessed data that is provided in the [GitHub](https://github.com/WorkInTheDark/FairytaleQA_QAG_System), so I will have to check if I did it correctly. 
 2. (1) I began to fine-tune the BART QG model, but the program only ran for about an hour until a process error is called: 'died with <Signals.SIGKILL:9>'
 
-Stuck On: 
+> Stuck On: 
 1. Fixing process error while fine-tuning BART QG model. 
 2. Running out of RAM when trying to generate QA pairs with QAG system. 
 
 **Fri Jan 27: Readings, Preprocessed Data and Began to Fine-Tune BART QG**
 
-Readings: 
+> Readings: 
 1. [End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems](https://arxiv.org/pdf/2010.06028.pdf)
 
-Progress: 
+> Progress: 
 1. (0) I read through and annotated the code to understand what preprocessing was being done. I preprocessed data for Finetuning BART QG. Files include test.source, test.target, val.source. val.target. I was confused as to why there wasn't code to write the processed training data to a file, but I realized that I could just write that missing part myself, so I will be doing that tomorrow. 
 2. (1) I was able to start fine-tuning BART QG with the preprocessed data that the GitHub repo provided. I fixed imports and file paths. Due to time constraints, I will continue this tomorrow. 
 3. (2) I fixed import errors and file paths. I was able to get everything to run until my runtime crashed due to running out of RAM. I may need to upgrade my Colab. 
 
 **Wed Jan 25: Begin to Replicate Yao's QAG System**
 
-Progress:
+> Progress:
 1. Started looking through the files in the GitHub. Read through most of the code and tried to understand it.
 2. Met with mentor Yujian to discuss timeline for potential paper and any confusions with my readings. 
 
