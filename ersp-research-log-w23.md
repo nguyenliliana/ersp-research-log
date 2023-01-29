@@ -7,6 +7,8 @@ The goal of this research is to leverage automatic question-answer generation to
 
 ## Week 3
 **Sat Jan 28: Finished Pre-Processing Data, Attempt to Fine-Tune BART QG**
+Readings: 
+1. [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
 
 Progress: 
 1. (0) After adding the code to write the train split into the files, I finished preprocessing the data and saved it to my Google Drive. I will need to check with my teammates and mentors about whether the changes I made to the code are correct. Also, my processed data looks different than the preprocessed data that is provided in the [GitHub](https://github.com/WorkInTheDark/FairytaleQA_QAG_System), so I will have to check if I did it correctly. 
