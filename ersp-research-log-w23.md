@@ -10,7 +10,7 @@ The goal of this research is to leverage automatic question-answer generation to
 **Fri Jan 27: Readings, Preprocessed Data and Began to Fine-Tune BART QG**
 
 Readings: 
-1. 
+1. [End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems](https://arxiv.org/pdf/2010.06028.pdf)
 
 Progress: 
 1. (0) Preprocessed data for Finetuning BART QG. Files include test.source, test.target, val.source. val.target. I was confused as to why there wasn't code to write the processed training data to a file, but I realized that I could just write that missing part myself, so I will be doing that tomorrow. 
