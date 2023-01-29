@@ -7,6 +7,7 @@ The goal of this research is to leverage automatic question-answer generation to
 
 ## Week 3
 **Sat Jan 28: Finished Pre-Processing Data, Attempt to Fine-Tune BART QG**
+
 Readings: 
 1. [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
 
