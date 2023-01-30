@@ -7,7 +7,7 @@ The goal of this research is to leverage automatic question-answer generation to
 
 ## Week 4
 
-**Mon Jan 30: **
+**Mon Jan 30:**
 
 Brainstorm: 
 1. Can we generalize the QAG model to history or science books? What technical changes or improvements would we need? How would we go about getting/making a quality annotated data set? 
