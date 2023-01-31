@@ -8,6 +8,12 @@ The goal of this research is to leverage automatic question-answer generation to
 ## Week 4
 **Tues Jan 31: Brainstorm and Lit Review**
 
+Obstacles: 
+1. When running program (2), my program still runs out of RAM. I have figured out that it crashes while loading the fine-tuned BARG model since it isn't loading it into the GPU memory. 
+
+Questions for (2): 
+1. Why freeze the token and positional embeddings in the summarization model? 
+
 Brainstorm: 
 1. How do I train an NLU model to check for answer correctness? 
 2. Is building the tri-module system we were thinking about something that can be considered research or make a decent research paper? 
