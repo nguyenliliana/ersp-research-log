@@ -6,8 +6,14 @@ This research log is meant for me to record my learning and research progress.
 The goal of this research is to leverage automatic question-answer generation to develop an integrated system where teachers can collaborate with AI to create and customize interactive reading resources with question-answering functions for their students from kindergarten through second grade. Throughout this project, students will have a chance to 1) develop innovative AI models that expand the state-of-the-art NLP techniques (e.g., BERT, GPT) for automatically generating question-answer pairs for reading materials and customizing the training to meet the unique requirements of an educational context; and 2) building a dialog system with graphical user interfaces that is able to a) ask children a question, b) provide tailored feedback and explanation to children’s response, and/or c) rephrase the original question (usually open-ended) to a multiple-choice question as a way of scaffolding if the children do not answer the original question or answer it incorrectly.
 
 ## Week 4
+**Tues Jan 31: Brainstorm and Lit Review**
 
-**Mon Jan 30:**
+Brainstorm: 
+1. How do I train an NLU model to check for answer correctness? 
+2. Is building the tri-module system we were thinking about something that can be considered research or make a decent research paper? 
+3. Can we go about generalizing the QAG system to other more difficult text like history textbooks or biology textooks? 
+
+**Mon Jan 30: Brainstorm**
 
 Brainstorm: 
 1. Can we generalize the QAG model to history or science books? What technical changes or improvements would we need? How would we go about getting/making a quality annotated data set? 
