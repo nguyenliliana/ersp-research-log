@@ -7,7 +7,22 @@ The goal of this research is to leverage automatic question-answer generation to
 
 ## Week 4
 
+**Wed Feb 1: Stable Diffusion**
 
+Training: 
+
+1. Randomly select a time step & encode it.
+2. Add noise to image. Original image + Gaussian noise = Noisy image
+3. Train the UNet.
+
+Sampling/Denoising/Reverse Diffusion: 
+1. Sample a Gaussian noise.
+2. Iteratively denoise the image. Noisy image - Predicted noise = Denoised image 
+3. Output denoised image.
+
+Stable Diffusion
+- Meant to tackle the issue of pure Diffusion models being extremely slow.
+- 
 **Tues Jan 31: Brainstorm, Group Meeting**
 
 Group Meeting: 
