@@ -22,7 +22,8 @@ Sampling/Denoising/Reverse Diffusion:
 
 Stable Diffusion
 - Meant to tackle the issue of pure Diffusion models being extremely slow.
-- 
+- Diffusion process happens in latent space. 
+
 **Tues Jan 31: Brainstorm, Group Meeting**
 
 Group Meeting: 
