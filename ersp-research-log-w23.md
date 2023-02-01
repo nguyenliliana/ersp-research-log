@@ -8,7 +8,8 @@ The goal of this research is to leverage automatic question-answer generation to
 ## Week 4
 
 
-**Tues Jan 31: Brainstorm and Lit Review**
+**Tues Jan 31: Brainstorm, Group Meeting**
+
 Group Meeting: 
 1. Went over assignment from mentors where we experimented with a Stable Diffusion model. Our goal was to give it a detailed prompt that would give us a New Year greeting card with a bunny on it. 
 2. Discussed our opinions on writing a short paper for a deadline coming up in a month. The paper would most likely be a proposal of an idea or implementation that we have in mind. We will need to ask our mentors and advisor about this. 
