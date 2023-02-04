@@ -14,7 +14,10 @@ The goal of this research is to leverage automatic question-answer generation to
 
 
 **Wed Feb 1: Group Meeting, New Resarch Topic!**
- 
+
+ Group Meeting w/ Prof. Chang and Mentors: 
+ - After discussing about our goals to write a paper for EMNLP, our Prof. Chang and our mentors decided to choose a research topic that would be more feasible with our timeline. Thus, our new research question is the following: 
+ - Stable Diffusion 2.1 is the latest text-to-image model from StabilityAI. It takes in a prompt and generates four images. However, writing a detailed and accurate prompt can prove to be difficult and time consuming. While humans can try our best to predict what prompt works best for our intended image, machines may be better at recognizing underlying patterns to the prompts that better communicate to the stable diffusion model what image to generate. ChatGPT is a conversational language model developed by OpenAI. It uses deep learning techniques to generate human-like text based on the input it receives. ChatGPT is trained on a large corpus of text data and can be used for various natural language processing tasks such as text generation. How can we make the process of making “the best prompts” faster by utilizing ChatGPT’s learning and adaptive abilities to train it to write prompts that produce the best possible image that the stable diffusion model is able to generate?
 
 **Tues Jan 31: Brainstorm, Group Meeting**
 
