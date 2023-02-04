@@ -7,22 +7,14 @@ The goal of this research is to leverage automatic question-answer generation to
 
 ## Week 4
 
-**Wed Feb 1: Stable Diffusion**
+**Fri Feb 3: Research Outline**
 
-Training: 
 
-1. Randomly select a time step & encode it.
-2. Add noise to image. Original image + Gaussian noise = Noisy image
-3. Train the UNet.
+**Thurs Feb 2: ChatGPT API**
 
-Sampling/Denoising/Reverse Diffusion: 
-1. Sample a Gaussian noise.
-2. Iteratively denoise the image. Noisy image - Predicted noise = Denoised image 
-3. Output denoised image.
 
-Stable Diffusion
-- Meant to tackle the issue of pure Diffusion models being extremely slow.
-- Diffusion process happens in latent space. 
+**Wed Feb 1: Group Meeting, New Resarch Topic!**
+ 
 
 **Tues Jan 31: Brainstorm, Group Meeting**
 
