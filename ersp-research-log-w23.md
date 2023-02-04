@@ -1,14 +1,16 @@
 # LILIANA'S RESEARCH LOG - WINTER '23
 
-This research log is meant for me to record my learning and research progress.
+This research log is meant for me to record my learning and research progress. 
 
 ## Week 4
 
 **Fri Feb 3: Research Outline**
-
+I worked on a [research outline](https://docs.google.com/document/d/1WkwLcFZPeCvPqvG-_D_xceiKCzw3hMaTZt9TrItFYZQ/edit?usp=sharing) to present to our mentors. It outlines our understanding of the research question and task, the different experimental approaches we are considering, and questions we want to explore. 
 
 **Thurs Feb 2: ChatGPT API**
-
+1. I experimented with using a [ChatGPT API](https://github.com/acheong08/ChatGPT) to automate our inputs and the responses. For the browserless version, I am running into an error saying that the model doesn't exist. I will try using a different API key to see if this gets fixed. I also tried using the Browser version, where I am running into many issues with getting the chrome driver to work. The chromedriver unexpectedly exits with status code -6 or there is an UnboundLocalError: local variable 'driver' referenced before assignment.
+2.  I also tried following this [blog](https://blog.nextideatech.com/how-to-use-chatgpt-with-python/). It was a simple approach and seemed to work, but on my first try, the error message said, "You exceeded your current quota, please check your plan and billing details. So it appears that this approach is not completely free like the first approach. 
+3.  Lastly, I tried following this [youtube video](https://www.youtube.com/watch?v=S3okwVkxDgA&ab_channel=1littlecoder). I get the same issue of the chromedriver unexpectedly exiting with status code -6.
 
 **Wed Feb 1: Group Meeting, New Resarch Topic!**
 
