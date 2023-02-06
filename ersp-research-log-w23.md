@@ -9,7 +9,9 @@ I read [Adversarial Text-to-Image Synthesis: A Review](https://arxiv.org/pdf/210
 
 As a result of my reading, I will probably have my group stick with human evaluations. 
 
-I also watched the video [Images as Data: Best practices for storing and organizing your research images](https://www.youtube.com/watch?v=vlVj3U01UeY&ab_channel=DigitalScholarshipHub-McGillUniversity). The workshop provides useful strategies on managing and organizing research images. They introduced the image management software Tropy, a free open-source software that allows users to organize and describe photographs of research material. 
+I also watched the video [Images as Data: Best practices for storing and organizing your research images](https://www.youtube.com/watch?v=vlVj3U01UeY&ab_channel=DigitalScholarshipHub-McGillUniversity). The workshop provides useful strategies on managing and organizing research images. They introduced the image management software Tropy, a free open-source software that allows users to organize and describe photographs of research material. I will try out this software and see if it would be useful for my research. 
+
+[Brainstorm Notes](https://docs.google.com/document/d/1WkwLcFZPeCvPqvG-_D_xceiKCzw3hMaTZt9TrItFYZQ/edit?usp=sharing)
 
 ## Week 4
 
