@@ -3,7 +3,12 @@
 This research log is meant for me to record my learning and research progress. 
 ## Week 5
 
-**Sun Feb 5: Brainstorm Ways to Evaluate Quality of text-to-image**
+**Sun Feb 5: Brainstorm Ways to Evaluate Image Generation**
+I read [Adversarial Text-to-Image Synthesis: A Review](https://arxiv.org/pdf/2101.09983.pdf) which discusses current strategies to evaluate text-to-image synthesis models. They explained metrics like R-precision, VS Similarity, Captioning Metrics, and Semantic Object Accuracy. However, User Evaluation is the best since humans are abel to evaluate image quality, image diversity, object fidelity, text relevance, mentioned objects, and positional alignment. 
+
+As a result of my reading, I will probably have my group stick with human evaluations. 
+
+I also watched the video [Images as Data: Best practices for storing and organizing your research images](https://www.youtube.com/watch?v=vlVj3U01UeY&ab_channel=DigitalScholarshipHub-McGillUniversity). The workshop provides useful strategies on managing and organizing research images. They introduced the image management software Tropy, a free open-source software that allows users to organize and describe photographs of research material. 
 
 ## Week 4
 
