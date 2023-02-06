@@ -4,6 +4,7 @@ This research log is meant for me to record my learning and research progress.
 ## Week 5
 
 **Sun Feb 5: Brainstorm Ways to Evaluate Image Generation**
+
 I read [Adversarial Text-to-Image Synthesis: A Review](https://arxiv.org/pdf/2101.09983.pdf) which discusses current strategies to evaluate text-to-image synthesis models. They explained metrics like R-precision, VS Similarity, Captioning Metrics, and Semantic Object Accuracy. However, User Evaluation is the best since humans are abel to evaluate image quality, image diversity, object fidelity, text relevance, mentioned objects, and positional alignment. 
 
 As a result of my reading, I will probably have my group stick with human evaluations. 
