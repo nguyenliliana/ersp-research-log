@@ -1,6 +1,9 @@
 # LILIANA'S RESEARCH LOG - WINTER '23
 
 This research log is meant for me to record my learning and research progress. 
+## Week 5
+
+**Sun Feb 5: Brainstorm Ways to Evaluate Quality of text-to-image**
 
 ## Week 4
 
