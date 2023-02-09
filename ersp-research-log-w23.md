@@ -15,7 +15,7 @@ Experiment With:
 4. How can we TRANSLATE human prompts with ChatGPT to be a suitable prompt for Stable Diffusion to understand. 
 
 Task: 
-1. Run same experiment with 20 
+1. Run same experiment of 20 prompts using more demonstrations. 
 
 **Tues Feb 7: Group Meeting- Evaluate Images & Analyze Data**
 
