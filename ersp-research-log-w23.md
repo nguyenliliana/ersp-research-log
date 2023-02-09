@@ -22,6 +22,8 @@ Task:
 
 We each generated images with 4 human prompts and ChatGPT-generated prompts. The Stable Diffusion model generates 4 images for each prompt. The 4 images from the human prompt and the 4 images from the ChatGPT prompt were organized on a single slide in random order, then the evaluators ranked the 8 images from best to worst by prompt relevancy.
 
+I coded a program on Colab using Python and Pandas Dataframe to process our data to see which images ranked the highest, human or ChatGPT prompts. However, there a few bugs I need to fix. We used my teammates program to generate the following results:
+
 [Results](https://docs.google.com/spreadsheets/d/1sTEZddQdgxiaxVnKF13IPFYWU6l8gwv8PrVOZBry3yA/edit?usp=sharing)
 
 From the results, we came to an understanding that one example is not enough. The ChatGPT-generated prompts do not follow the ideal prompt format outlined in the prompt book. In addition, the ChatGPT prompts vary immensely depending on the original prompt that the user inputs. 
