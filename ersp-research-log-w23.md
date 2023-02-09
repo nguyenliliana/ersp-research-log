@@ -4,6 +4,28 @@ This research log is meant for me to record my learning and research progress.
 
 ## Week 5
 
+**Wed Feb 8: Mentor Meeting- Share Results & Feedback**
+
+After sharing the results, we agreed that one example is not enought and that more demonstrations are needed to teach ChatGPT.
+
+Experiment With: 
+1. Giving a before and after or good and bad comparison that explains what changes were made to create a good prompt. 
+2. Do more demonstrations with explanation of generating good prompt. 
+3. What ChatGPT knows and Stable Diffusion knows are different. For example, with the phrase, "slice bread", ChatGPT can infer that slicing is done with a knife, but if that is not specified to the Stable Diffusion model, then it will not generate a knife in the image. How can we bridge this gap? How can we teach ChatGPT the abilties/limitations of Stable Diffusion. 
+4. How can we TRANSLATE human prompts with ChatGPT to be a suitable prompt for Stable Diffusion to understand. 
+
+Task: 
+1. Run same experiment with 20 
+
+**Tues Feb 7: Group Meeting- Evaluate Images & Analyze Data**
+
+
+We each generated images with 4 human prompts and ChatGPT-generated prompts. The Stable Diffusion model generates 4 images for each prompt. The 4 images from the human prompt and the 4 images from the ChatGPT prompt were organized on a single slide in random order, then the evaluators ranked the 8 images from best to worst by prompt relevancy.
+
+[Results](https://docs.google.com/spreadsheets/d/1sTEZddQdgxiaxVnKF13IPFYWU6l8gwv8PrVOZBry3yA/edit?usp=sharing)
+
+From the results, we came to an understanding that one example is not enough. The ChatGPT-generated prompts do not follow the ideal prompt format outlined in the prompt book. In addition, the ChatGPT prompts vary immensely depending on the original prompt that the user inputs. 
+
 **Mon Feb 6: Mentor Meeting**
 
 We presented our[Research Outline](https://docs.google.com/document/d/1BLhkD2DzUr9ck6EBEAwrdXmzzBvtF9M6HpePg_gwQEg/edit?usp=sharing) to our mentors. 
@@ -11,7 +33,7 @@ We presented our[Research Outline](https://docs.google.com/document/d/1BLhkD2DzU
 Meeting Takeaways: 
 1. Evaluating the images by ranking them is a good idea. We need to decide the criteria(s) to rank with: image quality, object indentifiability, and prompt relevancy are a few ideas. 
 2. Task: Generate 20 prompts with ChatGPT and compare them to the human-made prompts. For this round of experimenting with ChatGPT, we only explained the task, the prompt format, and one example to ChatGPT before asking for a prompt. 
-3. With the Chain-of-Thought approach, ChatGPT does a good job at understanding the different features of a prompt, so it's able to take information from the user input and infer the features that would suit it, making the prompt more detailed which I thought was good. However, our mentor raises the question about whether the prompt generated from ChatGPT is simply better because it has more details, and if so, would it make a fair comparison to the original prompt? 
+3. With the Chain-of-Thought approach, ChatGPT does a good job at understanding the different features of a prompt, so it's able to take information from the user input and infer the features that would suit it, making the prompt more detailed which I thought was good. However, our mentor raises the question about whether the prompt generated from ChatGPT is simply better because it has more details, and if so, would it make a fair comparison to the original prompt? I think our goal is more so to translate a typical user's prompt to a prompt that is more suited and understandable for the Stable Diffusion model. 
 
 **Sun Feb 5: Brainstorm Ways to Evaluate Image Generation**
 
