@@ -1,7 +1,17 @@
 # LILIANA'S RESEARCH LOG - WINTER '23
 
 This research log is meant for me to record my learning and research progress. 
+
 ## Week 5
+
+**Mon Feb 6: Mentor Meeting**
+
+We presented our[Research Outline](https://docs.google.com/document/d/1BLhkD2DzUr9ck6EBEAwrdXmzzBvtF9M6HpePg_gwQEg/edit?usp=sharing) to our mentors. 
+
+Meeting Takeaways: 
+1. Evaluating the images by ranking them is a good idea. We need to decide the criteria(s) to rank with: image quality, object indentifiability, and prompt relevancy are a few ideas. 
+2. Task: Generate 20 prompts with ChatGPT and compare them to the human-made prompts. For this round of experimenting with ChatGPT, we only explained the task, the prompt format, and one example to ChatGPT before asking for a prompt. 
+3. With the Chain-of-Thought approach, ChatGPT does a good job at understanding the different features of a prompt, so it's able to take information from the user input and infer the features that would suit it, making the prompt more detailed which I thought was good. However, our mentor raises the question about whether the prompt generated from ChatGPT is simply better because it has more details, and if so, would it make a fair comparison to the original prompt? 
 
 **Sun Feb 5: Brainstorm Ways to Evaluate Image Generation**
 
@@ -14,6 +24,12 @@ I also watched the video [Images as Data: Best practices for storing and organiz
 [Brainstorm Notes](https://docs.google.com/document/d/1WkwLcFZPeCvPqvG-_D_xceiKCzw3hMaTZt9TrItFYZQ/edit?usp=sharing)
 
 ## Week 4
+**Sat Feb 2: Experiment With Chain-of-Thought and Traditional Explanation Approach on ChatGPT**
+
+[Chain-of-Thought](https://docs.google.com/spreadsheets/d/1_NPT-HjAvyftwLCw-PQQaEWw9XjZz9y43KYsArF2RO0/edit?usp=sharing)
+Chain-of-Thought teaches the language model in a Q & A+Explanation format. For the explanation, I decided to define each part of the prompt. I think that ChatGPT understood this very well, and with a simple prompt input, it generates a new prompt that is much more detailed and in a format suited for a stable diffusion model. 
+
+[Traditional Explanation](https://docs.google.com/spreadsheets/d/1YwU35PStXOOcBS0bK4MbHqWsoK0Nl6hTa-f6TwS3wJg/edit?usp=sharing)
 
 **Fri Feb 3: Research Outline**
 
