@@ -6,7 +6,10 @@ This research log is meant for me to record my learning and research progress.
 
 ## Week 5
 **Thurs Feb 9: Experiment with "Average" User Input to Demonstrate "Bad" vs Good Prompts**
+
 I wanted to try and get the user input of an "average" user who has never read the prompt book or has ever tried using Stable Diffusion before, so I got a friend to be the "average" user. I gave them a set of images from the prompt book, and asked them to write the best prompts that they think would best help the Stable Diffusion model generate the image. In my demonstrations to ChatGPT using the COT approach, I compared the ideal prompts to the user prompts. The first time, I tried explaining the prompt features in full sentences, but the explanations were inconsistent and results showed that ChatGPT didn't learn as well. The second time, I stated the prompt features simply, for example, "Type:Painting". The generated prompts with this approach used a lot of adjectives and emotions (more than other methods). The images from human prompt and ChatGPT prompt were pretty different. Overall, I don't think these methods proved effective. 
+
+[Chat Log](https://docs.google.com/spreadsheets/d/1_NPT-HjAvyftwLCw-PQQaEWw9XjZz9y43KYsArF2RO0/edit?usp=sharing)
 
 Experiment With: 
 1. Bad vs Good Prompt: What is a bad prompt? What is a good prompt? How do I teach ChatGPT this? 
