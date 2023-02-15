@@ -3,6 +3,8 @@
 This research log is meant for me to record my learning and research progress. 
 
 ## Week 5
+**Thurs Feb 9: Experiment with "Average" User Input to Demonstrate "Bad" vs Good Prompts**
+
 
 **Wed Feb 8: Mentor Meeting- Share Results & Feedback**
 
