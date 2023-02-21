@@ -6,9 +6,9 @@ This research log is meant for me to record my learning and research progress.
 
 Building upon my progress, I demonstrated to ChatGPT how to label and suggest missing information using this format: 
 
-Q: Gordan Ramsey slicing bread. 
+*Q: Gordan Ramsey slicing bread. 
 
-A: Photo of Gordan Ramsey slicing bread with a knife. 
+*A: Photo of Gordan Ramsey slicing bread with a knife. 
 Type: Photo
 Subject: Gordan Ramsey
 Setting:  **Missing**- Setting is missing/not defined. Suggestion-Professional kitchen
@@ -17,7 +17,7 @@ Colors: **MIssing**-Colors are missing/not defined. Suggestion-Realistic
 Art Style: **Missing**-Art Style is missing/not defined. 
 Extra Details: Slicing bread with a knife. 
 
-Suggested prompt: A photo of Gordon Ramsay, slicing bread with a sharp knife, in a professional kitchen, with dramatic lighting.
+*Suggested prompt: A photo of Gordon Ramsay, slicing bread with a sharp knife, in a professional kitchen, with dramatic lighting.
 
 ChatGPT does a good job at providing relevant suggestions, and the suggested prompt has more detail that results in a better/more accurate image. It demonstrates the ability to iteratively edit a prompt with the user's inputs to get a concise and detailed prompt to get the user's ideal image. For example, I started with "A basketball ball on an empty court photo" and ended with "A photo of a basketball ball on the hardwood floor of an empty indoor basketball court, with a warm toned lighting and shadows. The ball is bathed in bright, vibrant colors that pop against the cooler background."
 
