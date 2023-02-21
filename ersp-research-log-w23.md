@@ -5,7 +5,7 @@ This research log is meant for me to record my learning and research progress.
 **Wed Feb 15: COT Indicating Missing Prompt Info & Provide Suggestions**
 
 
-**Tues Feb 14: Try Fixing Intital COT Attempt to Indicate Missing Prompt Feature**
+**Tues Feb 14: Try Fixing Initial COT Attempt to Indicate Missing Prompt Feature**
 
 
 ## Week 5
