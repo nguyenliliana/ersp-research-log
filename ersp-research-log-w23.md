@@ -25,26 +25,26 @@ ChatGPT does a good job at providing relevant suggestions, and the suggested pro
 
 With my first try with using chain-of-thought, while ChatGPT did a good job at recognizing the prompt features, some improvements that I wanted to make was to teach ChatGPT to somehow prompt the user for the missing prompt features. It would be tricky to teach ChatGPT to directly ask the users for the missing prompt information, so rather I experimented with this format for demonstrations: 
 
-Q: A painting of a Goldendoodle in a suit in the sky with natural light and bright colors. 
+*Q: A painting of a Goldendoodle in a suit in the sky with natural light and bright colors.* 
 
-A: A painting of a cute goldendoodle in the sky, wearing a suit, natural light, with bright colors. This prompt specifies the following: 
+*A: A painting of a cute goldendoodle in the sky, wearing a suit, natural light, with bright colors. This prompt specifies the following: 
 Type: painting
 Subject: Goldendoodle
 Setting: In the sky
 Lighting: Natural
 Colors: Bright
 Art Style: **Missing** Art style is missing/not defined. 
-Extra Details: Goldendoodle is wearing a suit
+Extra Details: Goldendoodle is wearing a suit*
 
-Q: Gordan Ramsey slicing bread. 
+*Q: Gordan Ramsey slicing bread.* 
 
-A: Photo of Gordan Ramsey slicing break with a knife. 
+*A: Photo of Gordan Ramsey slicing break with a knife. 
 Type: Photo
 Subject: Gordan Ramsey
 Setting:  **Missing** Setting is missing/not defined. 
 Lighting: **Missing** Lighting is missing/not defined. 
 Colors: **MIssing** Colors are missing/not defined. 
-Extra Details: Slicing bread with a knife. 
+Extra Details: Slicing bread with a knife.* 
 
 ChatGPT was able to do this exactly as intended. It shows the user what information they're missing in their prompt. Tomorrow, I will train ChatGPT to both label and give suggestions for missing information, and write a suggested prompt. 
 
