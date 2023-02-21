@@ -13,7 +13,7 @@ Type: Photo
 Subject: Gordan Ramsey
 Setting:  **Missing**- Setting is missing/not defined. Suggestion-Professional kitchen
 Lighting: **Missing**-Lighting is missing/not defined. Suggestion-Dramatic
-Colors: **MIssing**-Colors are missing/not defined. Suggestion-Realistic
+Colors: **Missing**-Colors are missing/not defined. Suggestion-Realistic
 Art Style: **Missing**-Art Style is missing/not defined. 
 Extra Details: Slicing bread with a knife.* 
 
