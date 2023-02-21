@@ -4,9 +4,46 @@ This research log is meant for me to record my learning and research progress.
 ## Week 6
 **Wed Feb 15: COT Indicating Missing Prompt Info & Provide Suggestions**
 
+Building upon my progress, I demonstrated to ChatGPT how to label and suggest missing information using this format: 
+
+Q: Gordan Ramsey slicing bread. 
+A: Photo of Gordan Ramsey slicing bread with a knife. 
+Type: Photo
+Subject: Gordan Ramsey
+Setting:  **Missing**- Setting is missing/not defined. Suggestion-Professional kitchen
+Lighting: **Missing**-Lighting is missing/not defined. Suggestion-Dramatic
+Colors: **MIssing**-Colors are missing/not defined. Suggestion-Realistic
+Art Style: **Missing**-Art Style is missing/not defined. 
+Extra Details: Slicing bread with a knife. 
+
+Suggested prompt: A photo of Gordon Ramsay, slicing bread with a sharp knife, in a professional kitchen, with dramatic lighting.
+
+ChatGPT does a good job at providing relevant suggestions, and the suggested prompt has more detail that results in a better/more accurate image. It demonstrates the ability to iteratively edit a prompt with the user's inputs to get a concise and detailed prompt to get the user's ideal image. For example, I started with "A basketball ball on an empty court photo" and ended with "A photo of a basketball ball on the hardwood floor of an empty indoor basketball court, with a warm toned lighting and shadows. The ball is bathed in bright, vibrant colors that pop against the cooler background."
 
 **Tues Feb 14: Try Fixing Initial COT Attempt to Indicate Missing Prompt Feature**
 
+With my first try with using chain-of-thought, while ChatGPT did a good job at recognizing the prompt features, some improvements that I wanted to make was to teach ChatGPT to somehow prompt the user for the missing prompt features. It would be tricky to teach ChatGPT to directly ask the users for the missing prompt information, so rather I experimented with this format for demonstrations: 
+
+Q: A painting of a Goldendoodle in a suit in the sky with natural light and bright colors. 
+A: A painting of a cute goldendoodle in the sky, wearing a suit, natural light, with bright colors. This prompt specifies the following: 
+Type: painting
+Subject: Goldendoodle
+Setting: In the sky
+Lighting: Natural
+Colors: Bright
+Art Style: **Missing** Art style is missing/not defined. 
+Extra Details: Goldendoodle is wearing a suit
+
+Q: Gordan Ramsey slicing bread. 
+A: Photo of Gordan Ramsey slicing break with a knife. 
+Type: Photo
+Subject: Gordan Ramsey
+Setting:  **Missing** Setting is missing/not defined. 
+Lighting: **Missing** Lighting is missing/not defined. 
+Colors: **MIssing** Colors are missing/not defined. 
+Extra Details: Slicing bread with a knife. 
+
+ChatGPT was able to do this exactly as intended. It shows the user what information they're missing in their prompt. Tomorrow, I will train ChatGPT to both label and give suggestions for missing information, and write a suggested prompt. 
 
 ## Week 5
 **Thurs Feb 9: Experiment with "Average" User Input to Demonstrate "Bad" vs Good Prompts**
@@ -21,7 +58,7 @@ Experiment With:
 
 **Wed Feb 8: Mentor Meeting- Share Results & Feedback**
 
-After sharing the results, we agreed that one example is not enought and that more demonstrations are needed to teach ChatGPT.
+After sharing the results, we agreed that one example is not enough and that more demonstrations are needed to teach ChatGPT.
 
 Experiment With: 
 1. Giving a before and after or good and bad comparison that explains what changes were made to create a good prompt. 
