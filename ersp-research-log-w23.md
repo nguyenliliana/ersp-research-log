@@ -7,6 +7,7 @@ This research log is meant for me to record my learning and research progress.
 Building upon my progress, I demonstrated to ChatGPT how to label and suggest missing information using this format: 
 
 Q: Gordan Ramsey slicing bread. 
+
 A: Photo of Gordan Ramsey slicing bread with a knife. 
 Type: Photo
 Subject: Gordan Ramsey
@@ -25,6 +26,7 @@ ChatGPT does a good job at providing relevant suggestions, and the suggested pro
 With my first try with using chain-of-thought, while ChatGPT did a good job at recognizing the prompt features, some improvements that I wanted to make was to teach ChatGPT to somehow prompt the user for the missing prompt features. It would be tricky to teach ChatGPT to directly ask the users for the missing prompt information, so rather I experimented with this format for demonstrations: 
 
 Q: A painting of a Goldendoodle in a suit in the sky with natural light and bright colors. 
+
 A: A painting of a cute goldendoodle in the sky, wearing a suit, natural light, with bright colors. This prompt specifies the following: 
 Type: painting
 Subject: Goldendoodle
@@ -35,6 +37,7 @@ Art Style: **Missing** Art style is missing/not defined.
 Extra Details: Goldendoodle is wearing a suit
 
 Q: Gordan Ramsey slicing bread. 
+
 A: Photo of Gordan Ramsey slicing break with a knife. 
 Type: Photo
 Subject: Gordan Ramsey
