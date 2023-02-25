@@ -1,6 +1,16 @@
 # LILIANA'S RESEARCH LOG - WINTER '23
 
 This research log is meant for me to record my learning and research progress. 
+
+## Week 7
+**Wed Feb 22: Experiment with Explanation, Teaching Prompt Parameters & Rules, Using Prompt Templates**
+1. Building upon last week's progress, I wanted to see if explaining the suggestions would help improve the suggestions, but I found my explanations were inconsistent and rather limited how well ChatGPT understood the demonstrations. It also did not help ChatGPT give better suggestions. 
+2. I experimented with providing ChatGPT with a list of prompt parameters that could be used for different parts of the prompt, I hoped that it would give it a better idea of what helpful and relevant prompt parameters look like. While experimenting to see if this helped with ChatGPT's prompt generation across a diverse set of prompts, I found that the 3-4 demonstrations were too limited. I tried feeding tailored prompts to ChatGPT to see if it would utilize the prompt parameters I gave it, but the prompt parameters it used were repetitive and it did not utilize the list of prompt parameters to use the most relevant ones. 
+3. Next, I wanted to see if ChatGPT could learn the ideal prompt format from these [prompt templates](https://openart.ai/presets). While ChatGPT did well for prompts similar to the templates given, it did terribly with prompts outside of the scope of the templates it learned from.
+4. Playground vs ChatGPT
+
+Experiment with next: 
+
 ## Week 6
 **Wed Feb 15: COT Indicating Missing Prompt Info & Provide Suggestions**
 
@@ -19,7 +29,7 @@ Extra Details: Slicing bread with a knife.*
 
 *Suggested prompt: A photo of Gordon Ramsay, slicing bread with a sharp knife, in a professional kitchen, with dramatic lighting.*
 
-ChatGPT does a good job at providing relevant suggestions, and the suggested prompt has more detail that results in a better/more accurate image. It demonstrates the ability to iteratively edit a prompt with the user's inputs to get a concise and detailed prompt to get the user's ideal image. For example, I started with "A basketball ball on an empty court photo" and ended with "A photo of a basketball ball on the hardwood floor of an empty indoor basketball court, with a warm toned lighting and shadows. The ball is bathed in bright, vibrant colors that pop against the cooler background."
+ChatGPT does a good job at providing relevant suggestions, and the suggested prompt has more detail that results in a better/more accurate image. It demonstrates the ability to iteratively edit a prompt with the user's inputs to get a concise and detailed prompt to get the user's ideal image. For example, I started with "A basketball ball on an empty court photo" and ended with "A photo of a basketball ball on the hardwood floor of an empty indoor basketball court, with a warm toned lighting and shadows. The ball is bathed in bright, vibrant colors that pop against the cooler background." 
 
 **Tues Feb 14: Try Fixing Initial COT Attempt to Indicate Missing Prompt Feature**
 
