@@ -4,12 +4,15 @@ This research log is meant for me to record my learning and research progress.
 
 ## Week 7
 **Wed Feb 22: Experiment with Explanation, Teaching Prompt Parameters & Rules, Using Prompt Templates**
+
+Progress:
 1. Building upon last week's progress, I wanted to see if explaining the suggestions would help improve the suggestions, but I found my explanations were inconsistent and rather limited how well ChatGPT understood the demonstrations. It also did not help ChatGPT give better suggestions. 
 2. I experimented with providing ChatGPT with a list of prompt parameters that could be used for different parts of the prompt, I hoped that it would give it a better idea of what helpful and relevant prompt parameters look like. While experimenting to see if this helped with ChatGPT's prompt generation across a diverse set of prompts, I found that the 3-4 demonstrations were too limited. I tried feeding tailored prompts to ChatGPT to see if it would utilize the prompt parameters I gave it, but the prompt parameters it used were repetitive and it did not utilize the list of prompt parameters to use the most relevant ones. 
 3. Next, I wanted to see if ChatGPT could learn the ideal prompt format from these [prompt templates](https://openart.ai/presets). While ChatGPT did well for prompts similar to the templates given, it did terribly with prompts outside of the scope of the templates it learned from.
-4. Playground vs ChatGPT
+4. Playground vs ChatGPT: Playground only takes one input and gives one output. I experimented with its settings to see if I could get the same or better result as ChatGPT, but I found that the suggestions it gave were repetitive. 
 
 Experiment with next: 
+1. Since 3-4 demonstrations is not enough, I want to utilize the Lexica API to see if I can grab 10 relevant prompt examples using their search function and feed it into ChatGPT using a ChatGPT API. 
 
 ## Week 6
 **Wed Feb 15: COT Indicating Missing Prompt Info & Provide Suggestions**
@@ -22,7 +25,7 @@ Building upon my progress, I demonstrated to ChatGPT how to label and suggest mi
 Type: Photo
 Subject: Gordan Ramsey
 Setting:  **Missing**- Setting is missing/not defined. Suggestion-Professional kitchen
-Lighting: **Missing**-Lighting is missing/not defined. Suggestion-Dramatic
+Lighting: **Missing**- Lighting is missing/not defined. Suggestion-Dramatic
 Colors: **Missing**-Colors are missing/not defined. Suggestion-Realistic
 Art Style: **Missing**-Art Style is missing/not defined. 
 Extra Details: Slicing bread with a knife.* 
