@@ -10,7 +10,7 @@ This research log is meant for me to record my learning and research progress.
 **Tues Feb 28: Try OpenAI Playground, Teach Prompt Parameter, Temperature 0**
 
 
-**Mon Feb 27: ChatGPT API**
+**Mon Feb 27: Utilize ChatGPT API**
 
 ## Week 7
 **Wed Feb 22: Experiment with Explanation, Teaching Prompt Parameters & Rules, Using Prompt Templates**
