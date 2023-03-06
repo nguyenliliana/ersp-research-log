@@ -2,6 +2,16 @@
 
 This research log is meant for me to record my learning and research progress. 
 
+## Week 9
+
+**Sun Mar 5: Reading about Exemplars**
+[Complementary Explanations for Effective In-Context Learning](https://arxiv.org/abs/2211.13892)
+
+Takeaways: 
+1. "Natural language also plays an essential role in constructing effective explanations." I will experiment with full sentence explanations. 
+2. "LLMs can fuse the reasoning processes of different exemplars together to solve a query that requires multiple types of reasoning." I will experiment with using different examples.  
+3. "Good set \[of exemplars] should consist of relevant exemplars that cover the reasoning skills required for solving the query." I will experiment with making my exemplars more diverse. Do one with suggesting missing information with feature parameters given, one with suggesting missng information with feature parameters beyond the ones given, one tat demonstrates the need to be explicit to stable diffusion ('cutting bread **with a knife**')
+
 ## Week 8
 
 **Wed Mar 1: Lexica Examples**
