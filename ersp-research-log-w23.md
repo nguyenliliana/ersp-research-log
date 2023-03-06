@@ -17,7 +17,7 @@ Takeaways:
 
 **Wed Mar 1: Lexica Examples**
 I experimented with using Lexica examples with no specific strategy. I concatenated it to my query. For example: 
-
+[User:]
 *I will give you a series of sentence examples and I want you to extract and use the prompt parameters.* 
 *Examples:
 *1. infinite golden gate bridge, sticker design vector art, 8k, trending on artstation*
@@ -27,6 +27,8 @@ I experimented with using Lexica examples with no specific strategy. I concatena
 *5. octopus attacking golden gate bridge, vector art, 8k, trending on artstation*
 
 *Q: With temperature 0, generate me a prompt for A photo of the Golden Gate bridge.*
+
+The nonstrategic approach obviously did not work since I did not demonstrate to ChatGPT what I wanted it to do with the five examples. Since the quality of prompts on Lexica varies, my goal with Lexica examples is for ChatGPT to extract the prompt modifiers and consider them as suggestions. I was thinking that this would be helpful with bizzare user prompts that ChatGPT would not understand. 
 
 
 **Tues Feb 28: Try OpenAI Playground, Teach Prompt Parameter, Temperature 0**
