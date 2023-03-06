@@ -5,6 +5,7 @@ This research log is meant for me to record my learning and research progress.
 ## Week 9
 
 **Sun Mar 5: Reading about Exemplars**
+
 [Complementary Explanations for Effective In-Context Learning](https://arxiv.org/abs/2211.13892)
 
 Takeaways: 
@@ -15,12 +16,28 @@ Takeaways:
 ## Week 8
 
 **Wed Mar 1: Lexica Examples**
+I experimented with using Lexica examples with no specific strategy. I concatenated it to my query. For example: 
+
+*I will give you a series of sentence examples and I want you to extract and use the prompt parameters.* 
+*Examples:
+*1. infinite golden gate bridge, sticker design vector art, 8k, trending on artstation*
+*2. golden gate bridge at sunset by Thomas Kinkade, green dragon flying above, Greg Rutkowski. trending on artstation, Unreal Engine, cgsociety, Hudson River School, 8k render*
+*3.   Golden gate bridge,it is raining, night time , peaceful atmosphere, moody lighting , digital art , highly detailed , high contrast, beautiful lighting, award winning , trending on art station, photorealistic, 8k* 
+*4. infinite golden gate bridge by Beksinski and Luis Royo, 8k, trending on artstation*
+*5. octopus attacking golden gate bridge, vector art, 8k, trending on artstation*
+
+*Q: With temperature 0, generate me a prompt for A photo of the Golden Gate bridge.*
 
 
 **Tues Feb 28: Try OpenAI Playground, Teach Prompt Parameter, Temperature 0**
+I played with OpenAI playground to see if temperature influences the generated prompt. I found that the prompts generated from temp = 0.5 and prompts generated with temp = 0 did not differ much. 
 
+I experimented with controlling temperature with ChatGPT since I read that you could tell ChatGPT directly what temperature to control its creativity. I found that trying to "control" ChatGPT was not possible and beyond the scope of what I'm trying to do with this research. It defeats the purpose of using ChatGPT.
+
+I was able to teach ChatGPT the lists of prompt parameters if could use when suggesting missing prompt information to the user. After introducing the task, I say "Use these prompt parameters:". I found that using the word "use" instead of "learn" was better, and ChatGPT started pulling prompt parameters from the given lists. However, I would like to experiment with ChatGPT using prompt parameters beyond them since I would like to see ChatGPT's limits/capabilities. 
 
 **Mon Feb 27: Utilize ChatGPT API**
+I got the ChatGPT API to work on Google colab. It works with the access code and the chat shows up on the official website/interface when run in Google colab. This makes it easier, since I can put my queries into an array and run the program rather than copy and paste every time. I also write the output to a .txt file which also makes it easier for me to record my progress and label the chat logs more efficiently.
 
 ## Week 7
 **Wed Feb 22: Experiment with Explanation, Teaching Prompt Parameters & Rules, Using Prompt Templates**
