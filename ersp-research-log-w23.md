@@ -4,6 +4,17 @@ This research log is meant for me to record my learning and research progress.
 
 ## Week 9
 
+**Mon Mar 6: Reading about AMA Prompting**
+
+[Ask Me Anything: A simple strategy for prompting language models](https://arxiv.org/abs/2210.02441)
+
+
+Takeaways:
+1. Prompts that encourage open-ended answers are more effective than prompts that limits the model to output certain answers/token (such as true/false question).
+2. AMA's prompt format consists of a two-step promoting pipeline. First generate questions based on the inputkk and then prompt the LLM to answer the generated questions. They found that this applies quite generally and improves performance. I will experiment with this format of prompting.
+3. The pape also explains how to create prompt collections at scale by recursively applying the LLM itself using a chain of functional prompts, referred to as prompt()-chain. While this was an interesting idea, it is not within the scope of my research. 
+
+
 **Sun Mar 5: Reading about Exemplars**
 
 [Complementary Explanations for Effective In-Context Learning](https://arxiv.org/abs/2211.13892)
