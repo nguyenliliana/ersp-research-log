@@ -2,7 +2,10 @@
 
 This research log is meant for me to record my learning and research progress. 
 
-## Week 9
+##Week 9
+**Wed Mar 8: Mentor Meeting, Diverse Exemplars**
+
+**Tues Mar 7: Paper Brainstorm, Full Sentence Exemplars**
 
 **Mon Mar 6: Reading about AMA Prompting**
 
