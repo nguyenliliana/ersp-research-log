@@ -6,7 +6,11 @@ This research log is meant for me to record my learning and research progress.
 
 **Wed Mar 8: Mentor Meeting, Diverse Exemplars**
 
-**Tues Mar 7: Paper Brainstorm, Full Sentence Exemplars**
+
+
+**Tues Mar 7: Paper Brainstorm, Natural Language Exemplars**
+
+
 
 **Mon Mar 6: Reading about AMA Prompting**
 
