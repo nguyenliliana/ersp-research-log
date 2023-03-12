@@ -16,10 +16,10 @@ Paper Brainstorm Feedback from Mentor Meeting:
 
 
 **Tues Mar 7: Paper Brainstorm, Natural Language Exemplars**
+
 I worked with my group to draft a rough [paper outline](https://docs.google.com/document/d/1UoYjrJ8-V13xL8-g8GOOzgyDWkjvkwegPC_nJC6GvNI/edit?usp=sharing) to present to the mentors. My goal is to sophisticate our experiment design and finalize the research direction. 
 
 Natural Language Exemplars: 
-
 From my literature review, I found that natural language is also important for good exemplars, so I converted my previous demonstrations to full sentences. I also changed "Suggested Prompt:" to "Using the given and suggested prompt modifiers, I suggest a well-formatted Stable Diffusion prompt with articles and unnecessary words removed:". Also, I added two new exemplars since my previous exemplars were too similar. I compared the generated prompts from the full sentence exemplars and generated prompts from the previous non-full setnence exemplars. I found that the generated prompts from the full sentence exemplars were better in format and conciseness, but the quality/accuracy of SD images were not always better. 
 
 
