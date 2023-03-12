@@ -4,11 +4,23 @@ This research log is meant for me to record my learning and research progress.
 
 ## Week 9
 
-**Wed Mar 8: Mentor Meeting, Diverse Exemplars**
+**Wed Mar 8: Mentor Meeting, Diverse Exemplars/COT**
 
+Diverse Exemplars/COT: 
+From my literature review, I found that LLMs can fuse the reasoning processes of different exemplars together to solve a query that requires multiple types of reasoning, so a good set of exemplars should consist of relevant exemplars that cover the reasoning skills required for solving the query. This is pretty much Chain-of-Thought prompting. I chose [three diverse exemplars](https://docs.google.com/document/d/1z-ZKM7LHr1ohqsfan0QUPpUKZQlNNYFXLSYIeFEZbX4/edit?usp=sharing) that cover different reasoning skills I though ChatGPT would need for prompt engineering. I found that this was the best prompting strategy by far. I was surprised to see how well ChatGPT was generating SD prompts just from three examples.  
+
+Paper Brainstorm Feedback from Mentor Meeting: 
+1. Find the best prompting strategy and make that the main point of the paper. Remove one component at a time to demonstrate how each component actually helps with good prompt engineering. For example, remove the explanation component. 
+2. Define the scope. What query of user input does our method work for?
+3. Think about what story we want to tell. We leveraged ChatGPT's knowledge to... We can impplement a LLM to supplement SD that doesn't have the same knowledge. We illicit knowledge from ChatGPT by...
 
 
 **Tues Mar 7: Paper Brainstorm, Natural Language Exemplars**
+I worked with my group to draft a rough [paper outline](https://docs.google.com/document/d/1UoYjrJ8-V13xL8-g8GOOzgyDWkjvkwegPC_nJC6GvNI/edit?usp=sharing) to present to the mentors. My goal is to sophisticate our experiment design and finalize the research direction. 
+
+Natural Language Exemplars: 
+
+From my literature review, I found that natural language is also important for good exemplars, so I converted my previous demonstrations to full sentences. I also changed "Suggested Prompt:" to "Using the given and suggested prompt modifiers, I suggest a well-formatted Stable Diffusion prompt with articles and unnecessary words removed:". Also, I added two new exemplars since my previous exemplars were too similar. I compared the generated prompts from the full sentence exemplars and generated prompts from the previous non-full setnence exemplars. I found that the generated prompts from the full sentence exemplars were better in format and conciseness, but the quality/accuracy of SD images were not always better. 
 
 
 
@@ -16,16 +28,19 @@ This research log is meant for me to record my learning and research progress.
 
 [Ask Me Anything: A simple strategy for prompting language models](https://arxiv.org/abs/2210.02441)
 
-
 Takeaways:
 1. Prompts that encourage open-ended answers are more effective than prompts that limits the model to output certain answers/token (such as true/false question).
 2. AMA's prompt format consists of a two-step promoting pipeline. First generate questions based on the inputkk and then prompt the LLM to answer the generated questions. They found that this applies quite generally and improves performance. I will experiment with this format of prompting.
-3. The pape also explains how to create prompt collections at scale by recursively applying the LLM itself using a chain of functional prompts, referred to as prompt()-chain. While this was an interesting idea, it is not within the scope of my research. 
+3. The paper also explains how to create prompt collections at scale by recursively applying the LLM itself using a chain of functional prompts, referred to as prompt()-chain. While this was an interesting idea, it is not within the scope of my research. 
 
+
+Brainstormed ideas to experiment with, mainly from the two readings.
+[Experiment Brainstorm](https://docs.google.com/document/d/1CKsv9c_BGfEm8GYSLL-N0up17KrlQJKJaRqzm3DyoUs/edit?usp=sharing)
 
 **Sun Mar 5: Reading about Exemplars**
 
 [Complementary Explanations for Effective In-Context Learning](https://arxiv.org/abs/2211.13892)
+
 
 Takeaways: 
 1. "Natural language also plays an essential role in constructing effective explanations." I will experiment with full sentence explanations. 
@@ -76,7 +91,7 @@ Experiment with next:
 1. Since 3-4 demonstrations is not enough, I want to utilize the Lexica API to see if I can grab 10 relevant prompt examples using their search function and feed it into ChatGPT using a ChatGPT API. 
 
 ## Week 6
-**Wed Feb 15: COT Indicating Missing Prompt Info & Provide Suggestions**
+**Wed Feb 15: QA Indicating Missing Prompt Info & Provide Suggestions**
 
 Building upon my progress, I demonstrated to ChatGPT how to label and suggest missing information using this format: 
 
@@ -95,9 +110,9 @@ Extra Details: Slicing bread with a knife.*
 
 ChatGPT does a good job at providing relevant suggestions, and the suggested prompt has more detail that results in a better/more accurate image. It demonstrates the ability to iteratively edit a prompt with the user's inputs to get a concise and detailed prompt to get the user's ideal image. For example, I started with "A basketball ball on an empty court photo" and ended with "A photo of a basketball ball on the hardwood floor of an empty indoor basketball court, with a warm toned lighting and shadows. The ball is bathed in bright, vibrant colors that pop against the cooler background." 
 
-**Tues Feb 14: Try Fixing Initial COT Attempt to Indicate Missing Prompt Feature**
+**Tues Feb 14: Try Fixing Initial QA Attempt to Indicate Missing Prompt Feature**
 
-With my first try with using chain-of-thought, while ChatGPT did a good job at recognizing the prompt features, some improvements that I wanted to make was to teach ChatGPT to somehow prompt the user for the missing prompt features. It would be tricky to teach ChatGPT to directly ask the users for the missing prompt information, so rather I experimented with this format for demonstrations: 
+With my first try, while ChatGPT did a good job at recognizing the prompt features, some improvements that I wanted to make was to teach ChatGPT to somehow prompt the user for the missing prompt features. It would be tricky to teach ChatGPT to directly ask the users for the missing prompt information, so rather I experimented with this format for demonstrations: 
 
 *Q: A painting of a Goldendoodle in a suit in the sky with natural light and bright colors.* 
 
@@ -125,7 +140,7 @@ ChatGPT was able to do this exactly as intended. It shows the user what informat
 ## Week 5
 **Thurs Feb 9: Experiment with "Average" User Input to Demonstrate "Bad" vs Good Prompts**
 
-I wanted to try and get the user input of an "average" user who has never read the prompt book or has ever tried using Stable Diffusion before, so I got a friend to be the "average" user. I gave them a set of images from the prompt book, and asked them to write the best prompts that they think would best help the Stable Diffusion model generate the image. In my demonstrations to ChatGPT using the COT approach, I compared the ideal prompts to the user prompts. The first time, I tried explaining the prompt features in full sentences, but the explanations were inconsistent and results showed that ChatGPT didn't learn as well. The second time, I stated the prompt features simply, for example, "Type:Painting". The generated prompts with this approach used a lot of adjectives and emotions (more than other methods). The images from human prompt and ChatGPT prompt were pretty different. Overall, I don't think these methods proved effective. 
+I wanted to try and get the user input of an "average" user who has never read the prompt book or has ever tried using Stable Diffusion before, so I got a friend to be the "average" user. I gave them a set of images from the prompt book, and asked them to write the best prompts that they think would best help the Stable Diffusion model generate the image. In my demonstrations to ChatGPT using the QA approach, I compared the ideal prompts to the user prompts. The first time, I tried explaining the prompt features in full sentences, but the explanations were inconsistent and results showed that ChatGPT didn't learn as well. The second time, I stated the prompt features simply, for example, "Type:Painting". The generated prompts with this approach used a lot of adjectives and emotions (more than other methods). The images from human prompt and ChatGPT prompt were pretty different. Overall, I don't think these methods proved effective. 
 
 [Chat Log](https://docs.google.com/spreadsheets/d/1_NPT-HjAvyftwLCw-PQQaEWw9XjZz9y43KYsArF2RO0/edit?usp=sharing)
 
@@ -164,7 +179,7 @@ We presented our[Research Outline](https://docs.google.com/document/d/1BLhkD2DzU
 Meeting Takeaways: 
 1. Evaluating the images by ranking them is a good idea. We need to decide the criteria(s) to rank with: image quality, object indentifiability, and prompt relevancy are a few ideas. 
 2. Task: Generate 20 prompts with ChatGPT and compare them to the human-made prompts. For this round of experimenting with ChatGPT, we only explained the task, the prompt format, and one example to ChatGPT before asking for a prompt. 
-3. With the Chain-of-Thought approach, ChatGPT does a good job at understanding the different features of a prompt, so it's able to take information from the user input and infer the features that would suit it, making the prompt more detailed which I thought was good. However, our mentor raises the question about whether the prompt generated from ChatGPT is simply better because it has more details, and if so, would it make a fair comparison to the original prompt? I think our goal is more so to translate a typical user's prompt to a prompt that is more suited and understandable for the Stable Diffusion model. 
+3. With the QA approach, ChatGPT does a good job at understanding the different features of a prompt, so it's able to take information from the user input and infer the features that would suit it, making the prompt more detailed which I thought was good. However, our mentor raises the question about whether the prompt generated from ChatGPT is simply better because it has more details, and if so, would it make a fair comparison to the original prompt? I think our goal is more so to translate a typical user's prompt to a prompt that is more suited and understandable for the Stable Diffusion model. 
 
 **Sun Feb 5: Brainstorm Ways to Evaluate Image Generation**
 
@@ -177,10 +192,10 @@ I also watched the video [Images as Data: Best practices for storing and organiz
 [Brainstorm Notes](https://docs.google.com/document/d/1WkwLcFZPeCvPqvG-_D_xceiKCzw3hMaTZt9TrItFYZQ/edit?usp=sharing)
 
 ## Week 4
-**Sat Feb 2: Experiment With Chain-of-Thought and Traditional Explanation Approach on ChatGPT**
+**Sat Feb 2: Experiment With QA and Traditional Explanation Approach on ChatGPT**
 
 [Chain-of-Thought](https://docs.google.com/spreadsheets/d/1_NPT-HjAvyftwLCw-PQQaEWw9XjZz9y43KYsArF2RO0/edit?usp=sharing)
-Chain-of-Thought teaches the language model in a Q & A+Explanation format. For the explanation, I decided to define each part of the prompt. I think that ChatGPT understood this very well, and with a simple prompt input, it generates a new prompt that is much more detailed and in a format suited for a stable diffusion model. 
+Chain-of-Thought teaches the language model in a Q & A+Explanation format.
 
 [Traditional Explanation](https://docs.google.com/spreadsheets/d/1YwU35PStXOOcBS0bK4MbHqWsoK0Nl6hTa-f6TwS3wJg/edit?usp=sharing)
 
