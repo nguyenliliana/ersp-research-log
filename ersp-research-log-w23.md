@@ -10,7 +10,7 @@ Diverse Exemplars/COT:
 From my literature review, I found that LLMs can fuse the reasoning processes of different exemplars together to solve a query that requires multiple types of reasoning, so a good set of exemplars should consist of relevant exemplars that cover the reasoning skills required for solving the query. This is pretty much Chain-of-Thought prompting. I chose [three diverse exemplars](https://docs.google.com/document/d/1z-ZKM7LHr1ohqsfan0QUPpUKZQlNNYFXLSYIeFEZbX4/edit?usp=sharing) that cover different reasoning skills I though ChatGPT would need for prompt engineering. I found that this was the best prompting strategy by far. I was surprised to see how well ChatGPT was generating SD prompts just from three examples.  
 
 Paper Brainstorm Feedback from Mentor Meeting: 
-1. Find the best prompting strategy and make that the main point of the paper. Remove one component at a time to demonstrate how each component actually helps with good prompt engineering. For example, remove the explanation component. 
+1. Find the best prompting strategy and make that the main point of the paper. What are the best exemplars? Remove one component at a time to demonstrate how each component actually helps with good prompt engineering. For example, remove the explanation component. 
 2. Define the scope. What query of user input does our method work for?
 3. Think about what story we want to tell. We leveraged ChatGPT's knowledge to... We can impplement a LLM to supplement SD that doesn't have the same knowledge. We illicit knowledge from ChatGPT by...
 
