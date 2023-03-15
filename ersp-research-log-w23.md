@@ -2,6 +2,13 @@
 
 This research log is meant for me to record my learning and research progress. 
 
+## Week 10
+
+**Wed Mar 15: Revise Diverse Exemplars**
+
+
+**Tues Mar 14: Additive Prompting**
+
 ## Week 9
 
 **Wed Mar 8: Mentor Meeting, Diverse Exemplars/COT**
