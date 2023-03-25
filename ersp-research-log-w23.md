@@ -4,6 +4,10 @@ This research log is meant for me to record my learning and research progress.
 
 # Spring Break
 
+**Sat Mar 25: Brainstorm Evaluation/Ranking Metrics**
+1. Aesthetic/Quality: Visual appeal 
+2. Relevance: Relevance to prompt
+
 **Fri Mar 24: Reading**
 
 Reading: [Zero-shot Generation of Coherent Storybook from Plain Text Story using Diffusion Models](https://arxiv.org/pdf/2302.03900.pdf)
