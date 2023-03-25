@@ -19,9 +19,6 @@ as ‘symmetrical face’ or ‘beautiful eyes’" enhances realism of human mai
 
 **Wed Mar 15: Revise Diverse Exemplars, Group Meeting with Mentors**
 
-Mentor Feedback: 
-1. 
-
 **Tues Mar 14: Additive Prompting**
 
 ## Week 9
