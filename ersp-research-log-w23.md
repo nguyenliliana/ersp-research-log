@@ -5,7 +5,9 @@ This research log is meant for me to record my learning and research progress.
 # Spring Break
 
 **Fri Mar 24: Reading**
-Reading: [Zero-shot Generation of Coherent Storybook from Plain Text Story using Diffusion Models] (https://arxiv.org/pdf/2302.03900.pdf)
+
+Reading: [Zero-shot Generation of Coherent Storybook from Plain Text Story using Diffusion Models](https://arxiv.org/pdf/2302.03900.pdf)
+
 Prompt Generation Process by Paper: 
 1. Provide LLM with sentences from the story and instruct to describe each scene.
 2. Provide LLm with output from previous step and instruct to summarize each noun phrase.
