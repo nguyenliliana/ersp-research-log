@@ -2,10 +2,23 @@
 
 This research log is meant for me to record my learning and research progress. 
 
+# Spring Break
+
+**Fri Mar 24: Reading**
+Reading: [Zero-shot Generation of Coherent Storybook from Plain Text Story using Diffusion Models] (https://arxiv.org/pdf/2302.03900.pdf)
+Prompt Generation Process by Paper: 
+1. Provide LLM with sentences from the story and instruct to describe each scene.
+2. Provide LLm with output from previous step and instruct to summarize each noun phrase.
+3. Enhance quality of generated images by using magic words popular to users, such as "highly detailed" and "insanely intricate". A simple instruction like "If the main subject of the prompt is a person, add facial descriptions such
+as ‘symmetrical face’ or ‘beautiful eyes’" enhances realism of human main subjects.
+4. Employ use of style modifiers to generate images in specific style. 
+
 ## Week 10
 
-**Wed Mar 15: Revise Diverse Exemplars**
+**Wed Mar 15: Revise Diverse Exemplars, Group Meeting with Mentors**
 
+Mentor Feedback: 
+1. 
 
 **Tues Mar 14: Additive Prompting**
 
