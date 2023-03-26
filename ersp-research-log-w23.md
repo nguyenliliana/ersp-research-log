@@ -5,8 +5,8 @@ This research log is meant for me to record my learning and research progress.
 # Spring Break
 
 **Sat Mar 25: Brainstorm Evaluation/Ranking Metrics**
-1. Aesthetic/Quality: Visual appeal 
-2. Relevance: Relevance to prompt
+1. Aesthetic/Quality: Visual appeal/Degree the generated images are aesthetically pleasing.
+2. Relevance: Relevance score reflects how much the original user intentions are retained after prompt adaptation
 
 **Fri Mar 24: Reading**
 
