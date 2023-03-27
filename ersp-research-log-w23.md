@@ -10,7 +10,7 @@ This research log is meant for me to record my learning and research progress.
 
 Thoughts: 
 - does a good job at filling in missing modifiers
-- should I teach it the aesthetic modifiers: 8k, highly detailed, trending on artstation, 8k, octane render
+- should I teach it the aesthetic modifiers: 8k, highly detailed, trending on artstation, 8k, octane render, Unreal Engine, high resolution
 - doesn't suggest relevant artist most of the time
 
 **Fri Mar 24: Reading**
