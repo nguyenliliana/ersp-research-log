@@ -8,6 +8,10 @@ This research log is meant for me to record my learning and research progress.
 - group meeting: paper brainstorm, test prompts, experiment design
 - generate prompts and images
 
+Thoughts: 
+- does a good job at filling in missing modifiers
+- should I teach it the aesthetic modifiers: 8k, highly detailed, trending on artstation, 8k, octane render
+- doesn't suggest relevant artist most of the time
 
 **Fri Mar 24: Reading**
 
