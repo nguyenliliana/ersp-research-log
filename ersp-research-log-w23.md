@@ -4,14 +4,29 @@ This research log is meant for me to record my learning and research progress.
 
 # Spring Break
 
-**Sun Mar 26:**
+**Sun-Mon Mar 26-27:**
 - group meeting: paper brainstorm, test prompts, experiment design
-- generate prompts and images
 
-Thoughts: 
-- does a good job at filling in missing modifiers
-- should I teach it the aesthetic modifiers: 8k, highly detailed, trending on artstation, 8k, octane render, Unreal Engine, high resolution
-- doesn't suggest relevant artist most of the time
+Experiment Design: 
+- 24 test prompts
+- generate optimized prompts using mine and Shamita's prompting strategy
+- generate images using user prompt and ChatGPT-generated prompts
+- members blindly rank 12 images from best to worst by level of prompt relevancy and degree of aesthetic
+
+Observations of My Prompting Strategy: 
+- doesn't teach ChatGPT how to use 'magic' modifiers (modifiers that are known to skillful users to get higher quality and more visually appealing like 8k, highly detailed, trending on artstation, 8k, octane render, Unreal Engine, high resolution) so my images don't look as good
+- sometimes suggest artwork styles or artists that are ugly
+- ChatGPT's suggestions make sense with its reasoning
+
+Ideas for New Prompting Strategy: 
+- use more complex example
+- teach aesthetic/magic modifiers
+- teach to suggest modifiers beyond what's simply missing (setting, subject, lighting, color scheme, artwork style, artists, photography)
+- teach negative prompt generation
+
+Results of Experiment: 
+- prompt strategies are lacking and we need to go back to the drawing board 
+- individually experiment and brainstorm new prompting strategies for next meeting
 
 **Fri Mar 24: Reading**
 
