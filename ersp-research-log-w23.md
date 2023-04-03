@@ -3,8 +3,28 @@
 This research log is meant for me to record my learning and research progress. 
 
 # Spring Break
+**Sat April 1: Group Meeting**
 
-**Sun-Mon Mar 26-27:**
+Meeting Agenda: 
+1. Share prompting strategies and share suggestions
+2. Choose two prompting strategies to experiment on
+3. Decide on experiment design
+
+Suggestions for my prompting strategy: 
+- do a photo prompt for the second example
+
+
+Experiment Design: 
+1. 
+
+
+
+**Fri Mar 31: Experiment with Prompting Strategies**
+
+1. Best prompting strategy ended up consisting of an explanation of the task, then one exemplar that explains to ChatGPT how to add extra details and modifiers to the user prompt in order to get the most accurate and aesthetic image. ChatGPT is also taught how to create a negative prompt which is explained as a comma separated list consisting of attributes or items that should be excluded from the image in order to get the most accurate and aesthetic image. 
+
+**Sun-Mon Mar 26-27: Group Meeting, Experiment, Results**
+
 - group meeting: paper brainstorm, test prompts, experiment design
 
 Experiment Design: 
