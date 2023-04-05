@@ -13,6 +13,7 @@ Group Meeting:
 Prompting Strategy: 
 - Trying to make prompt generation more consistent and work for a variety of user prompts
 - I am working on my previous approach, but experimenting with different combinations of exemplars to see if it results in better performance
+- Ended with 8 versions of the prompting strategy I've been working on. The last one which is #8 without the negative prompt. I realized I liked the quality and accuracy of the images, but the combination of the two examples I used for this one ended having the same negative prompts, so I decided to exclude it. The generated images are high quality and excel at accuracy. I would like to run a ranking experiment with this one.
 
 Paper Introduction: 
 - I drafted the paper introduction based on the outline we wrote as a group.
